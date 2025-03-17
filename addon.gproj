@@ -1,0 +1,8 @@
+GameProject {
+ ID "SciFiEveron"
+ GUID "64E1051EB8717C4C"
+ TITLE "Sci-Fi_Everon"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

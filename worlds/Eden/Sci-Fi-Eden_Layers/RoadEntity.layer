@@ -1,0 +1,3454 @@
+$grp RoadEntity {
+ {
+  coords 2117.042 1.074 6726.809
+  SplinePoints {
+   ShapePoint "{5248BC4C0C19A31D}" {
+    Position 0 -0.011 0
+   }
+   ShapePoint "{5248BC4C0C19A244}" {
+    Position -3.712 -0.111 -5.601
+   }
+   ShapePoint "{5248BC4C0C19A1CB}" {
+    Position -6.465 -0.113 -11.256
+   }
+   ShapePoint "{5248BC4C0C19A14F}" {
+    Position -9.68 -0.2 -16.254
+   }
+   ShapePoint "{5248BC4C0C19A0CA}" {
+    Position -12.286 -0.134 -22.448
+   }
+   ShapePoint "{5248BC4C0C19A043}" {
+    Position -13.976 -0.084 -26.79
+   }
+   ShapePoint "{5248BC4C0C19BFD9}" {
+    Position -19.544 -0.254 -34.583
+   }
+   ShapePoint "{5248BC4C0C19BF5C}" {
+    Position -22.628 -0.199 -43.452
+   }
+   ShapePoint "{5248BC4C0C19BEC2}" {
+    Position -26.707 -0.345 -52.765
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 14611
+ }
+ {
+  coords 2566.061 0.418 7628.813
+  SplinePoints {
+   ShapePoint "{5238BEDF96B5527F}" {
+    Position -31.518 -0.248 18.826
+   }
+   ShapePoint "{5238BEDF96B5506C}" {
+    Position -40.372 -0.091 18.956
+   }
+   ShapePoint "{5238BEDF8D2DD7A5}" {
+    Position -49.218 -0.093 19.992
+   }
+   ShapePoint "{5238BEDF8EA68DEA}" {
+    Position -57.022 -0.124 21.228
+   }
+   ShapePoint "{5238BEDF8F589CFB}" {
+    Position -64.227 -0.08 22.703
+   }
+   ShapePoint "{5238BEDF8613EF58}" {
+    Position -71.911 0.008 22.894
+   }
+   ShapePoint "{524865E40E97CF2E}" {
+    Position -83.287 -0.073 26.133
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 15016
+ }
+ {
+  coords 2566.061 0.418 7628.813
+  SplinePoints {
+   ShapePoint "{5238BEDF96B5527F}" {
+    Position -75.82 -0.027 23.688
+   }
+   ShapePoint "{5238BEDF96B5506C}" {
+    Position -84.197 -0.071 26.073
+   }
+   ShapePoint "{5238BEDF8D2DD7A5}" {
+    Position -92.128 0.006 25.646
+   }
+   ShapePoint "{5238BEDF8EA68DEA}" {
+    Position -104.665 0.131 27.019
+   }
+   ShapePoint "{5238BEDF8F589CFB}" {
+    Position -113.091 0.064 31.235
+   }
+   ShapePoint "{5238BEDF8613EF58}" {
+    Position -117.859 0.007 33.388
+   }
+   ShapePoint "{5238BEDF81405969}" {
+    Position -122.843 -0.038 36.006
+   }
+   ShapePoint "{5238BEDF8210EDB6}" {
+    Position -128.504 -0.001 38.584
+   }
+   ShapePoint "{5244EB98A1CA14F1}" {
+    Position -134.436 0.004 42.719
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -3.502 -0.049 3.787
+      OutTangent -4.925 -0.066 4.909
+     }
+    }
+   }
+   ShapePoint "{5244EB98A3D511C0}" {
+    Position -139.397 -0.061 47.812
+   }
+   ShapePoint "{5244EB989F8D531A}" {
+    Position -142.958 -0.163 52.283
+   }
+   ShapePoint "{5244EB989FD4CC49}" {
+    Position -148.161 -0.241 57.805
+   }
+   ShapePoint "{5244EB989972FBBA}" {
+    Position -156.106 -0.135 63.196
+   }
+   ShapePoint "{5244EB9899AC768B}" {
+    Position -166.573 -0.017 70.468
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -17.191 -0.173 16.979
+      OutTangent -17.191 -0.173 16.979
+     }
+    }
+   }
+   ShapePoint "{5244EB9899E2A323}" {
+    Position -176.681 -0.028 80.161
+   }
+   ShapePoint "{5244EB989B6BB6AF}" {
+    Position -188.414 -0.029 91.902
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 4298
+ }
+ {
+  coords 2566.061 0.418 7628.813
+  SplinePoints {
+   ShapePoint "{5238BEDF96B5527F}" {
+    Position -211.083 0.138 111.43
+   }
+   ShapePoint "{5238BEDF96B5506C}" {
+    Position -222.051 0.051 123.155
+   }
+   ShapePoint "{5238BEDF8D2DD7A5}" {
+    Position -233.075 -0.022 132.083
+   }
+   ShapePoint "{5238BEDF8EA68DEA}" {
+    Position -241.671 -0.011 143.193
+   }
+   ShapePoint "{5238BEDF8F589CFB}" {
+    Position -249.69 -0.13 158.613
+   }
+   ShapePoint "{5238BEDF8613EF58}" {
+    Position -257.612 -0.258 176.133
+   }
+   ShapePoint "{5238BEDF81405969}" {
+    Position -259.886 0.266 192.963
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 6774
+ }
+ {
+  coords 2566.034 0.418 7637.216
+  SplinePoints {
+   ShapePoint "{5238BEDF96B5527F}" {
+    Position -342.655 -0.217 143.71
+   }
+   ShapePoint "{5238BEDF96B5506C}" {
+    Position -353.71 0.108 131.713
+   }
+   ShapePoint "{5238BEDF8D2DD7A5}" {
+    Position -359.842 0.213 123.749
+   }
+   ShapePoint "{5238BEDF8EA68DEA}" {
+    Position -364.983 0 118.977
+   }
+   ShapePoint "{5238BEDF8F589CFB}" {
+    Position -370.771 0.073 110.13
+   }
+   ShapePoint "{5238BEDF8613EF58}" {
+    Position -378.206 0.023 99.846
+   }
+   ShapePoint "{5238BEDF81405969}" {
+    Position -385.155 -0.032 93.542
+   }
+   ShapePoint "{5238BEDF8210EDB6}" {
+    Position -395.874 -0.371 82.755
+   }
+   ShapePoint "{5238BEDF8368C928}" {
+    Position -402.967 -0.228 73.811
+   }
+   ShapePoint "{5238BEDFFC2176F9}" {
+    Position -411.544 0.442 64.695
+   }
+   ShapePoint "{5238BEDFFEE1E352}" {
+    Position -420.787 -0.306 56.219
+   }
+   ShapePoint "{524865E473E2B72B}" {
+    Position -432.448 -0.027 43.079
+   }
+   ShapePoint "{524865E46F4D5795}" {
+    Position -435.887 0.013 37.927
+   }
+   ShapePoint "{524865E4682910F5}" {
+    Position -444.248 0.036 29.396
+   }
+   ShapePoint "{524865E469B5638F}" {
+    Position -453.144 0.175 21.162
+   }
+   ShapePoint "{524865E46A68BFA7}" {
+    Position -461.286 0.294 13.38
+   }
+   ShapePoint "{524865E4670D43E1}" {
+    Position -470.07 -0.192 4.236
+   }
+   ShapePoint "{524865E4608DE3A6}" {
+    Position -479.038 -0.348 -2.716
+   }
+   ShapePoint "{524865E462400EED}" {
+    Position -490.002 0.134 -11.361
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 17197
+ }
+ {
+  coords 2147.761 1.403 6772.163
+  SplinePoints {
+   ShapePoint "{5238BEDF96B5527F}" {
+    Position -48.129 -0.547 -76.62
+   }
+   ShapePoint "{5238BEDF96B5506C}" {
+    Position -54.759 -0.666 -88.761
+   }
+   ShapePoint "{523E6858FAD5893F}" {
+    Position -58.533 -0.737 -100.612
+   }
+   ShapePoint "{523E6858F429ED21}" {
+    Position -61.18 -0.88 -111.652
+   }
+   ShapePoint "{523E6858F5519DF9}" {
+    Position -57.222 -0.59 -127.393
+   }
+   ShapePoint "{523E6858F72170B9}" {
+    Position -52.443 -0.636 -141.698
+   }
+   ShapePoint "{523E6858F78B6EC7}" {
+    Position -44.908 -0.361 -147.853
+   }
+   ShapePoint "{523E6858F147E114}" {
+    Position -38.307 -0.452 -156.041
+   }
+   ShapePoint "{523E6858F26F1DF7}" {
+    Position -29.465 -0.612 -168.068
+   }
+   ShapePoint "{523E6858F3423FE8}" {
+    Position -18.267 -0.367 -179.098
+   }
+   ShapePoint "{523E6858ECB95B61}" {
+    Position -8.283 -0.629 -194.728
+   }
+   ShapePoint "{523E6858EDBA515E}" {
+    Position 2.195 -0.362 -205.93
+   }
+   ShapePoint "{524865ED246683C4}" {
+    Position 7.76 -0.575 -214.69
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 31238
+ }
+ {
+  coords 2568.358 0.628 7625.498
+  SplinePoints {
+   ShapePoint "{52427CD2A52426BB}" {
+    Position 86.89 -0.073 -56.126
+   }
+   ShapePoint "{52427CD2A5242495}" {
+    Position 77.699 -0.327 -47.43
+   }
+   ShapePoint "{52427CD2A2AE1783}" {
+    Position 69.481 -0.161 -43.132
+   }
+   ShapePoint "{52427CD2A3C33BEA}" {
+    Position 59.45 -0.252 -36.539
+   }
+   ShapePoint "{52427CD29DFBAD0B}" {
+    Position 50.959 -0.425 -29.824
+   }
+   ShapePoint "{52427CD29EB4BBA2}" {
+    Position 40.795 -0.245 -24.961
+   }
+   ShapePoint "{524865E4566D158E}" {
+    Position 30.316 -0.114 -19.1
+   }
+   ShapePoint "{524865E4571CCEC4}" {
+    Position 17.595 0.102 -11.251
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -17.414 -0.119 13.457
+      OutTangent -17.414 -0.119 13.457
+     }
+    }
+   }
+   ShapePoint "{524865E451BB5696}" {
+    Position 1.52 -0.474 5.784
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 31725
+ }
+ {
+  coords 2568.358 0.628 7625.498
+  SplinePoints {
+   ShapePoint "{52427CD2A52426BB}" {
+    Position 267.307 -0.432 -163.198
+   }
+   ShapePoint "{52427CD2A5242495}" {
+    Position 252.052 -0.371 -159.029
+   }
+   ShapePoint "{52427CD2A2AE1783}" {
+    Position 241.796 -0.377 -157.045
+   }
+   ShapePoint "{52427CD2A3C33BEA}" {
+    Position 232.536 -0.31 -156.717
+   }
+   ShapePoint "{52427CD29DFBAD0B}" {
+    Position 223.082 -0.336 -154.869
+   }
+   ShapePoint "{52447BD708940FD3}" {
+    Position 215.088 -0.348 -152.193
+   }
+   ShapePoint "{52447BD70AB442B6}" {
+    Position 206.493 -0.411 -147.53
+   }
+   ShapePoint "{524865E5BE3D3D80}" {
+    Position 200.523 -0.398 -142.999
+   }
+   ShapePoint "{524865E5BF3BDBD4}" {
+    Position 192.065 -0.311 -138.079
+   }
+   ShapePoint "{524865E5B96BE296}" {
+    Position 182.697 -0.159 -133.235
+   }
+   ShapePoint "{524865E5BAF96D49}" {
+    Position 173.81 -0.258 -125.134
+   }
+   ShapePoint "{524865E5B4AFC078}" {
+    Position 157.364 0.092 -114.417
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 5780
+ }
+ {
+  coords 2568.358 0.628 7625.498
+  SplinePoints {
+   ShapePoint "{52427CD2A52426BB}" {
+    Position 147.564 -0.478 -101.701
+   }
+   ShapePoint "{52427CD2A5242495}" {
+    Position 137.009 -0.517 -93.594
+   }
+   ShapePoint "{52427CD2A2AE1783}" {
+    Position 129.372 -0.526 -86.986
+   }
+   ShapePoint "{52427CD2A3C33BEA}" {
+    Position 117.855 -0.244 -78.078
+   }
+   ShapePoint "{524865E45344EAC8}" {
+    Position 107.152 -0.153 -69.604
+   }
+   ShapePoint "{524865E44CBF423F}" {
+    Position 92.895 -0.318 -58.316
+   }
+   ShapePoint "{524865E44EC00CD5}" {
+    Position 83.509 -0.267 -52.037
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 27257
+ }
+ {
+  coords 3526.448 0.267 7324.378
+  SplinePoints {
+   ShapePoint "{5242CBA367C405A3}" {
+    Position 242.106 0.405 215.058
+   }
+   ShapePoint "{5242CBA367C40395}" {
+    Position 242.254 0.253 205.313
+   }
+   ShapePoint "{5242CBA35D8CA954}" {
+    Position 242.743 0.207 196.412
+   }
+   ShapePoint "{5242CBA35F5EB9DB}" {
+    Position 242.83 0.196 187.655
+   }
+   ShapePoint "{5242CBA358D1EE1E}" {
+    Position 244.17 0.313 179.001
+   }
+   ShapePoint "{5242CBA35AD21C6F}" {
+    Position 243.5 0.227 169.748
+   }
+   ShapePoint "{5242CBA354C4FBAA}" {
+    Position 242.8 0.205 161.062
+   }
+   ShapePoint "{5242CBA35630D82E}" {
+    Position 240.624 0.096 151.033
+   }
+   ShapePoint "{5242CBA350696AC5}" {
+    Position 237.326 0.215 134.293
+   }
+   ShapePoint "{5242CBA3518C992C}" {
+    Position 232.971 0.364 122.662
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 13419
+ }
+ {
+  coords 3526.448 0.267 7324.379
+  SplinePoints {
+   ShapePoint "{5242CBA367C405A3}" {
+    Position 85.981 0.573 68.119
+   }
+   ShapePoint "{5242CBA367C40395}" {
+    Position 77.901 0.742 69.071
+   }
+   ShapePoint "{5242CBA35D8CA954}" {
+    Position 69.745 0.714 68.149
+   }
+   ShapePoint "{5242CBA35F5EB9DB}" {
+    Position 60.023 0.35 67.474
+   }
+   ShapePoint "{5242CBA358D1EE1E}" {
+    Position 47.522 0.177 64.236
+   }
+   ShapePoint "{5242CBA35AD21C6F}" {
+    Position 39.975 0.082 60.691
+   }
+   ShapePoint "{5242CBA354C4FBAA}" {
+    Position 31.913 0.213 55.466
+   }
+   ShapePoint "{5242CBA35630D82E}" {
+    Position 24.887 0.142 48.52
+   }
+   ShapePoint "{5242CBA350696AC5}" {
+    Position 16.335 0.01 36.097
+   }
+   ShapePoint "{5242CBA3518C992C}" {
+    Position 11.919 0.06 27.073
+   }
+   ShapePoint "{5242CBA352D64731}" {
+    Position 9.252 0.069 19.215
+   }
+   ShapePoint "{5242CBA34D1AD205}" {
+    Position 7.668 0.097 14.67
+   }
+   ShapePoint "{5242CBA34EA1766F}" {
+    Position 3.207 0.161 2.82
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 12836
+ }
+ {
+  coords 2377.991 0.471 7717.983
+  SplinePoints {
+   ShapePoint "{524887078296225A}" {
+    Position 12.739 0.137 -14.254
+   }
+   ShapePoint "{5248870782962168}" {
+    Position 5.559 0.044 -5.659
+   }
+   ShapePoint "{52488707829620E8}" {
+    Position 0.622 0.002 -0.484
+   }
+   ShapePoint "{5248870782962078}" {
+    Position -5.781 -0.017 6.278
+   }
+   ShapePoint "{5248870782963FC0}" {
+    Position -13.705 0.025 13.895
+   }
+   ShapePoint "{52488707F27B18B7}" {
+    Position -17.251 0.08 16.651
+   }
+   ShapePoint "{52488707F305369E}" {
+    Position -23.987 0.085 23.237
+   }
+   ShapePoint "{52488707EE506C05}" {
+    Position -31.117 0.027 30.804
+   }
+   ShapePoint "{52488707EFC27DB6}" {
+    Position -36.956 -0.031 36.846
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 24828
+ }
+ {
+  coords 3669.267 0.377 7363.326
+  SplinePoints {
+   ShapePoint "{52488707CDFB8F69}" {
+    Position 1.18 0.009 -0.616
+   }
+   ShapePoint "{52488707CDFB8DBC}" {
+    Position -5.615 0.017 1.044
+   }
+   ShapePoint "{52488707CDFB8D20}" {
+    Position -12.465 0.051 3.909
+   }
+   ShapePoint "{52488707CDFB8CB5}" {
+    Position -16.8 0.037 6.295
+   }
+   ShapePoint "{52488707CDFB8C0A}" {
+    Position -21.925 0.021 8.777
+   }
+   ShapePoint "{52488707CDFB8B91}" {
+    Position -26.859 0.077 11.735
+   }
+   ShapePoint "{52488707CDFB8BF9}" {
+    Position -32.17 0.169 15.208
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -7.998 0.039 6.462
+      OutTangent -4.592 0.021 3.237
+     }
+    }
+   }
+   ShapePoint "{52488707CDFB8B44}" {
+    Position -44.042 0.354 23.729
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -16.669 -0.093 7.859
+      OutTangent -8.539 -0.046 3.227
+     }
+    }
+   }
+   ShapePoint "{52488707CDFB8AAE}" {
+    Position -52.937 0.476 27.301
+   }
+   ShapePoint "{52488707CDFB8A32}" {
+    Position -61.622 0.7 29.093
+   }
+   ShapePoint "{52488707CDFB8996}" {
+    Position -69.637 0.753 28.978
+   }
+   ShapePoint "{52488707CDFB89FE}" {
+    Position -77.079 0.709 27.66
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 27740
+ }
+ {
+  coords 3529.24 0.259 7333.551
+  SplinePoints {
+   ShapePoint "{52488707CDFB8F69}" {
+    Position 13.84 0.147 19.568
+   }
+   ShapePoint "{52488707CDFB8DBC}" {
+    Position 9.019 0.097 14.219
+   }
+   ShapePoint "{52488707CDFB8D20}" {
+    Position 5.594 0.093 7.021
+   }
+   ShapePoint "{52488707CDFB8CB5}" {
+    Position 2.916 0.184 -1.496
+   }
+   ShapePoint "{52488707CDFB8C0A}" {
+    Position 0.414 0.213 -9.147
+   }
+   ShapePoint "{52488707CDFB8B91}" {
+    Position -2.238 0.269 -19.421
+   }
+   ShapePoint "{52488707CDFB8BF9}" {
+    Position -4.266 0.692 -38.59
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 4792
+ }
+ {
+  coords 2583.854 0.765 7615.777
+  SplinePoints {
+   ShapePoint "{5248BC4C4097B77A}" {
+    Position 7.69 -0.111 -5.708
+   }
+   ShapePoint "{5248BC4C4097B58A}" {
+    Position -1.511 0.019 0.908
+   }
+   ShapePoint "{5248BC4C4097B501}" {
+    Position -6.541 -0.184 5.999
+   }
+   ShapePoint "{5248BC4C4097B496}" {
+    Position -11.698 -0.232 9.703
+   }
+   ShapePoint "{5248BC4C4097B4FF}" {
+    Position -14.976 -0.383 12.679
+   }
+   ShapePoint "{5248BC4C4097B448}" {
+    Position -19.026 -0.462 15.459
+   }
+   ShapePoint "{5248BC4C4097B3D3}" {
+    Position -26.033 -0.607 20.782
+   }
+   ShapePoint "{5248BC4C4097B32A}" {
+    Position -38.997 -0.411 24.629
+   }
+   ShapePoint "{5248BC4C4097B28B}" {
+    Position -44.616 -0.342 26.639
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 21917
+ }
+ {
+  coords 2801.186 0.33 7468.529
+  SplinePoints {
+   ShapePoint "{5248BC4DA632E002}" {
+    Position 78.307 -0.112 -30.9
+   }
+   ShapePoint "{5248BC4DA632FF53}" {
+    Position 68.432 -0.124 -22.521
+   }
+   ShapePoint "{5248BC4DA632FEAE}" {
+    Position 56.127 0.086 -17.336
+   }
+   ShapePoint "{5248BC4DA632FE22}" {
+    Position 39.48 -0.066 -7.911
+   }
+   ShapePoint "{5248BC4DA632FD8B}" {
+    Position 27.427 -0.071 -4.648
+   }
+   ShapePoint "{5248BC4DA632FDEF}" {
+    Position 13.154 -0.069 -1.117
+   }
+   ShapePoint "{5248BC4DA632FD77}" {
+    Position 5 -0.045 0
+   }
+   ShapePoint "{5248BC4DA632FCC3}" {
+    Position 0 -0.011 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 31924
+ }
+ {
+  coords 2626.503 0.694 7586.899
+  SplinePoints {
+   ShapePoint "{5248BC4D82D79DC9}" {
+    Position 57.499 0.322 -42.688
+   }
+   ShapePoint "{5248BC4D82D79C03}" {
+    Position 46.029 0.57 -34.445
+   }
+   ShapePoint "{5248BC4D82D79B9C}" {
+    Position 39.023 0.431 -28.725
+   }
+   ShapePoint "{5248BC4D82D79B11}" {
+    Position 32.78 0.152 -22.693
+   }
+   ShapePoint "{5248BC4D82D79B70}" {
+    Position 23.408 0.256 -16.601
+   }
+   ShapePoint "{5248BC4D82D79AD5}" {
+    Position 13.279 0.356 -10.572
+   }
+   ShapePoint "{5248BC4D82D79A3D}" {
+    Position 8.285 0.179 -6.12
+   }
+   ShapePoint "{5248BC4D82D7998D}" {
+    Position 0 -0.011 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 17164
+ }
+ {
+  coords 3526.448 0.267 7324.378
+  SplinePoints {
+   ShapePoint "{5242CBA367C405A3}" {
+    Position 239.539 0.105 144.491
+   }
+   ShapePoint "{5242CBA367C40395}" {
+    Position 238.337 0.177 138.271
+   }
+   ShapePoint "{5242CBA35D8CA954}" {
+    Position 233.553 0.264 127.64
+   }
+   ShapePoint "{5242CBA35F5EB9DB}" {
+    Position 227.872 0.345 115.799
+   }
+   ShapePoint "{5242CBA358D1EE1E}" {
+    Position 225.724 0.299 106.057
+   }
+   ShapePoint "{5242CBA35AD21C6F}" {
+    Position 222.901 0.288 99.896
+   }
+   ShapePoint "{5242CBA354C4FBAA}" {
+    Position 220.953 0.334 94.853
+   }
+   ShapePoint "{5248BC4D6BE2A4CF}" {
+    Position 219.399 0.381 91.019
+   }
+   ShapePoint "{5248BC4D64243CAD}" {
+    Position 217.632 0.388 87.767
+   }
+   ShapePoint "{5248BC4D604EA7DC}" {
+    Position 213.639 0.302 83.569
+   }
+   ShapePoint "{5248BC4D6093EC90}" {
+    Position 209.984 0.147 79.461
+   }
+   ShapePoint "{5248BC4D61274A02}" {
+    Position 207.454 0.181 73.208
+   }
+   ShapePoint "{5248BC4D61EBC181}" {
+    Position 203.383 0.104 67.323
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 23642
+ }
+ {
+  coords 3526.448 0.267 7324.378
+  SplinePoints {
+   ShapePoint "{5242CBA367C405A3}" {
+    Position 216.13 0.402 85.082
+   }
+   ShapePoint "{5242CBA367C40395}" {
+    Position 211.948 0.26 81.498
+   }
+   ShapePoint "{5242CBA35D8CA954}" {
+    Position 209.044 0.162 77.374
+   }
+   ShapePoint "{5242CBA35F5EB9DB}" {
+    Position 206.071 0.17 70.49
+   }
+   ShapePoint "{5242CBA358D1EE1E}" {
+    Position 200.507 0.102 62.649
+   }
+   ShapePoint "{5242CBA35AD21C6F}" {
+    Position 193.903 0.261 54.219
+   }
+   ShapePoint "{5242CBA354C4FBAA}" {
+    Position 187.386 0.384 49.569
+   }
+   ShapePoint "{5242CBA35630D82E}" {
+    Position 181.979 0.313 44.767
+   }
+   ShapePoint "{5242CBA350696AC5}" {
+    Position 175.811 0.364 39.648
+   }
+   ShapePoint "{5242CBA3518C992C}" {
+    Position 168.406 0.249 37.895
+   }
+   ShapePoint "{5242CBA352D64731}" {
+    Position 158.524 0.269 36.55
+   }
+   ShapePoint "{5242CBA34D1AD205}" {
+    Position 149.348 0.266 35.769
+   }
+   ShapePoint "{5242CBA34EA1766F}" {
+    Position 139.615 0.278 37.878
+   }
+   ShapePoint "{5242CBA34FE12C58}" {
+    Position 131.705 0.305 39.889
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 11743
+ }
+ {
+  coords 2003.331 0.121 7507.204
+  SplinePoints {
+   ShapePoint "{5238BEDF96B5527F}" {
+    Position 8.539 0.103 14.925
+   }
+   ShapePoint "{5238BEDF96B5506C}" {
+    Position 5.124 0.451 7.832
+   }
+   ShapePoint "{5238BEDF8D2DD7A5}" {
+    Position 2.797 0.342 2.079
+   }
+   ShapePoint "{5238BEDF8EA68DEA}" {
+    Position -2.093 -0.071 -5.134
+   }
+   ShapePoint "{5238BEDF8F589CFB}" {
+    Position -4.302 -0.134 -11.87
+   }
+   ShapePoint "{5238BEDF8613EF58}" {
+    Position -3.429 0.122 -22.775
+   }
+   ShapePoint "{5238BEDF81405969}" {
+    Position -5.268 -0.128 -35.864
+   }
+   ShapePoint "{5238BEDF8210EDB6}" {
+    Position -6.791 -0.251 -48.773
+   }
+   ShapePoint "{5238BEDF8368C928}" {
+    Position -3.95 0.153 -62.398
+   }
+   ShapePoint "{5238BEDFFC2176F9}" {
+    Position -0.886 0.081 -72.713
+   }
+   ShapePoint "{5238BEDFFEE1E352}" {
+    Position -0.387 -0.014 -84.441
+   }
+   ShapePoint "{5238BEDFF82AF495}" {
+    Position -2.25 -0.11 -92.799
+   }
+   ShapePoint "{570478E6C8EA65F1}" {
+    Position -2.009 -0.214 -101.138
+   }
+   ShapePoint "{570478E6C8EA6687}" {
+    Position 0.918 -0.043 -113.499
+   }
+   ShapePoint "{570478E6C8EA661D}" {
+    Position 4.359 -0.032 -125.724
+   }
+   ShapePoint "{570478E6C8EA666A}" {
+    Position 9.182 0.176 -135.513
+   }
+   ShapePoint "{570478E6C8EA67E0}" {
+    Position 13.513 0.205 -151.471
+   }
+   ShapePoint "{570478E6C8EA6778}" {
+    Position 17.497 0.122 -163.685
+   }
+   ShapePoint "{570478E6C8EA78F9}" {
+    Position 20.736 0.116 -171.66
+   }
+   ShapePoint "{570478E6C8EA787D}" {
+    Position 24.022 -0.062 -182.888
+   }
+   ShapePoint "{570478E6C8EA79FF}" {
+    Position 27.512 -0.09 -190.63
+   }
+   ShapePoint "{570478E6C8EA7976}" {
+    Position 31.974 -0.024 -196.739
+   }
+   ShapePoint "{570478E6C8EA7A2B}" {
+    Position 35.029 -0.026 -206.604
+   }
+   ShapePoint "{570478E6C8EA7BAE}" {
+    Position 37.949 -0.114 -215.857
+   }
+   ShapePoint "{570478E6C8EA7B25}" {
+    Position 43.359 0.154 -222.065
+   }
+   ShapePoint "{570478E6C8EA7CBF}" {
+    Position 48.785 0.292 -229.257
+   }
+   ShapePoint "{570478E6C8EA7C3B}" {
+    Position 51.753 -0.02 -237.088
+   }
+   ShapePoint "{570478E6C8EA7DBA}" {
+    Position 61.447 -0.118 -246.426
+   }
+   ShapePoint "{570478E6C8EA7D3E}" {
+    Position 68.317 0.099 -249.846
+   }
+   ShapePoint "{570478E6C8EA7EBC}" {
+    Position 75.782 0.117 -259.855
+   }
+   ShapePoint "{570478E6C8EA7E3C}" {
+    Position 80.971 0.321 -270.774
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 31157
+ }
+ {
+  coords 2566.061 0.418 7628.813
+  SplinePoints {
+   ShapePoint "{5238BEDF96B5527F}" {
+    Position -211.083 0.138 111.43
+   }
+   ShapePoint "{5238BEDF96B5506C}" {
+    Position -222.051 0.051 123.155
+   }
+   ShapePoint "{5238BEDF8D2DD7A5}" {
+    Position -233.075 -0.022 132.083
+   }
+   ShapePoint "{5238BEDF8EA68DEA}" {
+    Position -241.671 -0.011 143.193
+   }
+   ShapePoint "{5238BEDF8F589CFB}" {
+    Position -249.69 -0.13 158.613
+   }
+   ShapePoint "{5238BEDF8613EF58}" {
+    Position -257.612 -0.258 176.133
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 19189
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1732.195 -1.556 3328.085
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1720.537 -0.311 3288.797
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1703.42 -0.728 3265.66
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -1686.776 -0.254 3232.242
+   }
+   ShapePoint "{525494F50A1E7655}" {
+    Position -1674.45 0.261 3206.386
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 5919
+ }
+ {
+  coords 9597.171 -0.541 5562.672
+  SplinePoints {
+   ShapePoint "{52AAAD22862AD52A}" {
+    Position -23.356 -5.522 -77.308
+   }
+   ShapePoint "{52AAAD22862AD466}" {
+    Position -3.165 -0.533 -63.573
+   }
+   ShapePoint "{52AAAD22862AAB1A}" {
+    Position 8.869 -0.262 -44.158
+   }
+   ShapePoint "{52AAAD22862AAB62}" {
+    Position 12.479 -0.153 -18.909
+   }
+   ShapePoint "{52AAAD22862AAAEF}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 6226
+ }
+ {
+  coords 9501.18 -0.009 5282.336
+  SplinePoints {
+   ShapePoint "{52B6CB13AEF9D205}" {
+    Position 4.189 2.08 4.251
+   }
+   ShapePoint "{52B6CB13AEF9D04F}" {
+    Position -14.229 -0.451 -17.121
+   }
+   ShapePoint "{52B6CB13AEF9D7CF}" {
+    Position -16.588 0.034 -37.156
+   }
+   ShapePoint "{52B6CB13AEF9D722}" {
+    Position -18.786 0.724 -54.886
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 2
+  RandomSeed 13142
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1519.634 0.282 2914.642
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1533.18 0.078 2884.191
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1557.257 0.141 2858.649
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -1566.584 -0.057 2836.715
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 22364
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1521.019 0.497 3007.662
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1513.285 -0.148 2961.707
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1521.267 0.539 2914.642
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 22855
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1564.692 0.262 3094.879
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1522.933 -0.494 3050.04
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1521.019 0.497 3007.662
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 25090
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1666.913 0.259 3196.629
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1634.216 -0.718 3184.465
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1607.064 0.205 3148.079
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 24.307 -5.981 -14.853
+      OutTangent 24.307 -5.981 -14.853
+     }
+    }
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -1574.301 0.326 3105.121
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 21257
+ }
+ {
+  coords 11666.246 0.565 1375.316
+  SplinePoints {
+   ShapePoint "{55709C83A58DFC41}" {
+    Position 69.964 -0.42 91.45
+   }
+   ShapePoint "{55709C83A58DF281}" {
+    Position 77.568 -0.572 53.135
+   }
+   ShapePoint "{55709C83A58DF233}" {
+    Position 71.615 -0.643 25.262
+   }
+   ShapePoint "{55709C83A58DF183}" {
+    Position 49.27 -0.545 -4.049
+   }
+   ShapePoint "{55709C83A58DF11B}" {
+    Position 30.981 -0.605 -14.77
+   }
+   ShapePoint "{55709C83A58DF172}" {
+    Position -4.123 -0.449 -0.793
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 31298
+ }
+ {
+  coords 12064.98 0.154 1703.096
+  SplinePoints {
+   ShapePoint "{55709C8CF6ECA9AF}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{55709C8CF6ECAFB3}" {
+    Position 11.84 0.191 -4.486
+   }
+   ShapePoint "{55709C8CF6ECAF23}" {
+    Position 32.246 0.25 -5.677
+   }
+   ShapePoint "{55709C8CF6ECAEB0}" {
+    Position 61.932 0.166 5.134
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 479
+ }
+ {
+  coords 12041.623 0.58 1713.616
+  SplinePoints {
+   ShapePoint "{55709C8CDE12E15D}" {
+    Position -116.003 -0.371 41.462
+   }
+   ShapePoint "{55709C8CDE12E051}" {
+    Position -113.976 -0.985 26.368
+   }
+   ShapePoint "{55709C8CDE12E7CD}" {
+    Position -102.377 -0.693 12.453
+   }
+   ShapePoint "{55709C8CDE12E722}" {
+    Position -84.038 -0.647 8.188
+   }
+   ShapePoint "{567099D53279825B}" {
+    Position -65.315 -0.566 14.207
+   }
+   ShapePoint "{567099D5311F01B5}" {
+    Position -48.993 -0.574 6.015
+   }
+   ShapePoint "{567099D531DAD274}" {
+    Position -19.263 -0.071 -10.592
+   }
+   ShapePoint "{567099D530441B9F}" {
+    Position 7.634 -0.63 -6.199
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 28320
+ }
+ {
+  coords 10246.542 1.236 4158.862
+  SplinePoints {
+   ShapePoint "{5572DBD9FC70399F}" {
+    Position 8.192 -2.735 7.934
+   }
+   ShapePoint "{5572DBD9FC703FCF}" {
+    Position -4.939 -0.033 -7.581
+   }
+   ShapePoint "{5572DBD9FC703F78}" {
+    Position -19.744 -0.206 -26.189
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -17.347 -0.077 -10.551
+      OutTangent -17.347 -0.077 -10.551
+     }
+    }
+   }
+   ShapePoint "{5572DBD9FC703EC9}" {
+    Position -33.749 -0.597 -34.728
+   }
+   ShapePoint "{5572DBD9FC703E27}" {
+    Position -41.305 -0.472 -51.981
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 27461
+ }
+ {
+  coords 11293.844 0.055 2654.482
+  SplinePoints {
+   ShapePoint "{55747C0F529E6598}" {
+    Position 4.387 -0.196 2.894
+   }
+   ShapePoint "{55747C0F529E64CA}" {
+    Position -6.051 0.19 -15.672
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -1.971 -0.15 -22.06
+      OutTangent -1.971 -0.15 -22.06
+     }
+    }
+   }
+   ShapePoint "{55747C0F529E6470}" {
+    Position 1.137 -0.443 -33.492
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 907
+ }
+ {
+  coords 11666.246 0.565 1375.316
+  SplinePoints {
+   ShapePoint "{55709C83A58DFC41}" {
+    Position 54.258 -0.082 125.828
+   }
+   ShapePoint "{55709C83A58DF281}" {
+    Position 69.818 -0.402 91.45
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 19274
+ }
+ {
+  coords 11666.246 0.565 1375.316
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 20682
+ }
+ {
+  coords 8108.668 0.219 5847.179
+  SplinePoints {
+   ShapePoint "{558E86908342B879}" {
+    Position 3.082 -0.291 1.283
+   }
+   ShapePoint "{558E86908342BE80}" {
+    Position -12.969 -0.391 15.191
+   }
+   ShapePoint "{558E86908342BE36}" {
+    Position -37.487 -0.05 28.938
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 16067
+ }
+ {
+  coords 2730.447 -0.096 1769.313
+  SplinePoints {
+   ShapePoint "{564CAD83867CC3BC}" {
+    Position 2.76 0.172 0
+   }
+   ShapePoint "{564CAD83867CC418}" {
+    Position 5.125 0.229 -26.675
+   }
+   ShapePoint "{564CAD83867CDBAD}" {
+    Position 13.302 0.382 -52.676
+   }
+   ShapePoint "{564CAD83867CDB34}" {
+    Position 26.175 0.349 -71.83
+   }
+   ShapePoint "{564CAD83867CDA85}" {
+    Position 37.939 0.114 -87.922
+   }
+   ShapePoint "{564CAD83867CDA1E}" {
+    Position 52.507 0.113 -93.28
+   }
+   ShapePoint "{564CAD83867CDA6E}" {
+    Position 78.209 0.234 -92.905
+   }
+   ShapePoint "{564CAD83867CD9FD}" {
+    Position 112.547 0.051 -106.937
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 20
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 31583
+ }
+ {
+  coords 2855.267 0.679 2452.721
+  SplinePoints {
+   ShapePoint "{564EE13DF6E6FF01}" {
+    Position -77.466 -0.643 20.481
+   }
+   ShapePoint "{564EE13DF6E6FD2F}" {
+    Position -53.903 0.002 25.478
+   }
+   ShapePoint "{564EE13DF6E6FCA2}" {
+    Position -30.172 -1.926 21.783
+   }
+   ShapePoint "{564EE13DF6E6FC2D}" {
+    Position -3.706 -4.818 12.473
+   }
+   ShapePoint "{564EE13DF6E6F38B}" {
+    Position 4.73 -1.217 -6.431
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 27681
+ }
+ {
+  coords 2747.152 2.319 2340.719
+  SplinePoints {
+   ShapePoint "{565279594B2D7299}" {
+    Position 5.541 0.695 3.536
+   }
+   ShapePoint "{565279594B2D63D8}" {
+    Position -10.485 -1.003 -5.446
+   }
+   ShapePoint "{565279594B2D622B}" {
+    Position -28.001 -1.746 -5.57
+   }
+   ShapePoint "{565279594B2D61E0}" {
+    Position -39.584 -1.931 1.75
+   }
+   ShapePoint "{565279594B2D60CD}" {
+    Position -45.952 -2.275 10.878
+   }
+   ShapePoint "{565279594B2D67CD}" {
+    Position -48.235 -2.07 19.912
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 14219
+ }
+ {
+  coords 2747.152 2.319 2340.719
+  SplinePoints {
+   ShapePoint "{565279594B2D7299}" {
+    Position -48.235 -2.07 19.912
+   }
+   ShapePoint "{565279594B2D63D8}" {
+    Position -50.741 -2.327 29.868
+   }
+   ShapePoint "{565279594B2D622B}" {
+    Position -50.839 -2.52 41.056
+   }
+   ShapePoint "{565279594B2D61E0}" {
+    Position -43.181 -2.316 59.146
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 2029
+ }
+ {
+  coords 2923.977 -0.083 1617.346
+  SplinePoints {
+   ShapePoint "{565AB467A24DFC9C}" {
+    Position 284.368 -0.413 544.269
+   }
+   ShapePoint "{565AB467A24DF3FD}" {
+    Position 307.448 0.167 537.31
+   }
+   ShapePoint "{565AB467A24DF36F}" {
+    Position 313.495 0.034 519.068
+   }
+   ShapePoint "{565AB467A24DF2FA}" {
+    Position 317.209 -0.14 499.707
+   }
+   ShapePoint "{565AB467A24DF24D}" {
+    Position 321.127 -0.2 479.854
+   }
+   ShapePoint "{565AB467A24DF1DE}" {
+    Position 326.948 -0.104 459.838
+   }
+   ShapePoint "{565AB467A24DF128}" {
+    Position 337.356 -0.071 434.165
+   }
+   ShapePoint "{565AB467A24DF0BB}" {
+    Position 341.173 -0.332 413.947
+   }
+   ShapePoint "{565AB467A24DF007}" {
+    Position 334.42 -0.088 391.376
+   }
+   ShapePoint "{565AB467A24DF790}" {
+    Position 328.01 -0.256 372.3
+   }
+   ShapePoint "{565AB467A24DF713}" {
+    Position 317.554 0.328 344.322
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 7121
+ }
+ {
+  coords 2923.977 -0.083 1617.346
+  SplinePoints {
+   ShapePoint "{565AB467A24DFC9C}" {
+    Position 315.612 -0.138 319.059
+   }
+   ShapePoint "{565AB467A24DF3FD}" {
+    Position 313.269 0.105 298.423
+   }
+   ShapePoint "{565AB467A24DF36F}" {
+    Position 309.041 -0.096 280.261
+   }
+   ShapePoint "{565AB467A24DF2FA}" {
+    Position 303.832 -0.171 266.905
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 14909
+ }
+ {
+  coords 2923.977 -0.083 1617.346
+  SplinePoints {
+   ShapePoint "{565AB467A24DFC9C}" {
+    Position 305.546 -0.513 258.363
+   }
+   ShapePoint "{565AB467A24DF3FD}" {
+    Position 285.557 0.011 228.302
+   }
+   ShapePoint "{565AB467A24DF36F}" {
+    Position 275.661 0.119 203.78
+   }
+   ShapePoint "{565AB467A24DF2FA}" {
+    Position 266.847 0.043 181.017
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 21798
+ }
+ {
+  coords 2923.977 -0.083 1617.346
+  SplinePoints {
+   ShapePoint "{565AB467A24DFC9C}" {
+    Position 223.069 -0.09 124.238
+   }
+   ShapePoint "{565AB467A24DF3FD}" {
+    Position 199.531 0.029 105.382
+   }
+   ShapePoint "{565AB467A24DF36F}" {
+    Position 175.697 -0.212 90.145
+   }
+   ShapePoint "{565AB467A24DF2FA}" {
+    Position 156.772 -0.007 78.463
+   }
+   ShapePoint "{565AB467A24DF24D}" {
+    Position 148.369 -0.046 55.763
+   }
+   ShapePoint "{565AB467A24DF1DE}" {
+    Position 135.275 -0.062 37.613
+   }
+   ShapePoint "{565AB467A24DF128}" {
+    Position 121.459 -0.089 29.942
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 21652
+ }
+ {
+  coords 2923.977 -0.083 1617.346
+  SplinePoints {
+   ShapePoint "{565AB467A24DFC9C}" {
+    Position 122.372 -0.302 19.376
+   }
+   ShapePoint "{565AB467A24DF3FD}" {
+    Position 115.575 0.063 3.567
+   }
+   ShapePoint "{565AB467A24DF36F}" {
+    Position 102.854 -0.014 -6.658
+   }
+   ShapePoint "{565AB467A24DF2FA}" {
+    Position 90.047 -0.087 -16.766
+   }
+   ShapePoint "{565AB467A24DF24D}" {
+    Position 78.461 0.406 -28.968
+   }
+   ShapePoint "{565AB467A24DF1DE}" {
+    Position 60.973 0.052 -25.314
+   }
+   ShapePoint "{565AB467A24DF128}" {
+    Position 43.436 -0.006 -22.084
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 3518
+ }
+ {
+  coords 2923.977 -0.083 1617.346
+  SplinePoints {
+   ShapePoint "{565AB467A24DFC9C}" {
+    Position 43.436 -0.006 -22.084
+   }
+   ShapePoint "{565AB467A24DF3FD}" {
+    Position 22.823 0.023 -17.844
+   }
+   ShapePoint "{565AB467A24DF36F}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 1041
+ }
+ {
+  coords 3367.982 4.001 1645.143
+  SplinePoints {
+   ShapePoint "{565AB46DB3B057D2}" {
+    Position -14.572 -3.546 -173.49
+   }
+   ShapePoint "{565AB46DB3B05625}" {
+    Position -28.915 -3.913 -169.333
+   }
+   ShapePoint "{565AB46DB3B055D6}" {
+    Position -47.407 -4.123 -163.835
+   }
+   ShapePoint "{565AB46DB3B05524}" {
+    Position -71.887 -4.272 -147.643
+   }
+   ShapePoint "{565AB46DB3B054B9}" {
+    Position -89.573 -4.336 -130.306
+   }
+   ShapePoint "{565AB46DB3B05412}" {
+    Position -102.88 -4.249 -110.267
+   }
+   ShapePoint "{565AB46D90EBBA98}" {
+    Position -109.79 -4.243 -82.047
+   }
+   ShapePoint "{565AB46D97C70211}" {
+    Position -108.999 -4.191 -52.203
+   }
+   ShapePoint "{565AB46D965B3ECC}" {
+    Position -106.147 -3.983 -15.542
+   }
+   ShapePoint "{565AB46D96DF786A}" {
+    Position -95.517 -4.186 8.014
+   }
+   ShapePoint "{565AB46D95B67F0E}" {
+    Position -71.423 -4.095 24.05
+   }
+   ShapePoint "{565AB46D9408A750}" {
+    Position -47.184 -4.148 35.235
+   }
+   ShapePoint "{565AB46D94857C53}" {
+    Position -25.573 -4.139 37.741
+   }
+   ShapePoint "{565AB46D8B6202EC}" {
+    Position -11.019 -4.366 28.545
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 8975
+ }
+ {
+  coords 3481.042 -0.226 1619.074
+  SplinePoints {
+   ShapePoint "{565CAA051FFC0234}" {
+    Position -83.616 0.367 44.116
+   }
+   ShapePoint "{565CAA051FFC001F}" {
+    Position -65.565 0.013 52.147
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 18.42 -0.13 -0.06
+      OutTangent 18.42 -0.13 -0.06
+     }
+    }
+   }
+   ShapePoint "{565CAA051FFC0782}" {
+    Position -51.61 -0.012 43.579
+   }
+   ShapePoint "{565CAA051FFC0704}" {
+    Position -39.604 0.195 41.891
+   }
+   ShapePoint "{565CAA051FFC069B}" {
+    Position -28.79 0.177 37.603
+   }
+   ShapePoint "{565CAA051FFC06E8}" {
+    Position -12.83 0.009 28.208
+   }
+   ShapePoint "{565CAA051FFC0678}" {
+    Position -2.139 -0.05 14.285
+   }
+   ShapePoint "{565CAA051FFC05CA}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 18913
+ }
+ {
+  coords 3773.367 -0.079 8546.668
+  SplinePoints {
+   ShapePoint "{5470F48295C14002}" {
+    Position -4.619 -0.387 2.234
+   }
+   ShapePoint "{5470F48295C1462F}" {
+    Position 6.484 -0.061 17.963
+   }
+   ShapePoint "{5470F48295C145B6}" {
+    Position 43.069 0 43.958
+   }
+   ShapePoint "{5470F48295C1450E}" {
+    Position 67.236 0 73.604
+   }
+   ShapePoint "{5470F48295C14573}" {
+    Position 63.513 0.471 198.539
+   }
+   ShapePoint "{5470F48295C144D1}" {
+    Position 32.591 0.52 223.339
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 27896
+ }
+ {
+  coords 3707.098 -0.279 8482.372
+  SplinePoints {
+   ShapePoint "{5470F4821A0022BF}" {
+    Position 79.218 0 -612.178
+   }
+   ShapePoint "{5470F4821A0021A0}" {
+    Position 80.22 0 -553.068
+   }
+   ShapePoint "{5470F4821A00212E}" {
+    Position 81.918 0 -484.921
+   }
+   ShapePoint "{5470F4821A002086}" {
+    Position 93.605 0 -425.855
+   }
+   ShapePoint "{5470F4821A0020E3}" {
+    Position 98.68 0 -352.514
+   }
+   ShapePoint "{5470F4821A00207D}" {
+    Position 96.593 0 -298.031
+   }
+   ShapePoint "{5470F4821A0027A1}" {
+    Position 91.694 0 -273.332
+   }
+   ShapePoint "{5470F4821A002707}" {
+    Position 85.131 0 -210.875
+   }
+   ShapePoint "{5470F4821A002765}" {
+    Position 79.224 0 -153.279
+   }
+   ShapePoint "{5470F4821A0026CF}" {
+    Position 49.563 0 -94.234
+   }
+   ShapePoint "{5470F4821A00262F}" {
+    Position 14.846 0.459 -41.423
+   }
+   ShapePoint "{5470F4821A002591}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 5181
+ }
+ {
+  coords 3825.583 -0.061 9062.388
+  SplinePoints {
+   ShapePoint "{5470F483863CDEA5}" {
+    Position -9.018 -0.272 5.021
+   }
+   ShapePoint "{5470F483863CDD30}" {
+    Position 30.282 -0.195 11.633
+   }
+   ShapePoint "{5470F483863CDCA3}" {
+    Position 63.037 0 31.78
+   }
+   ShapePoint "{5470F483863CDC27}" {
+    Position 63.186 0 70.998
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 10043
+ }
+ {
+  coords 3920.297 -0.066 9141.402
+  SplinePoints {
+   ShapePoint "{5470F483D91BBBBB}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{5470F483D91BBAB0}" {
+    Position 26.755 -0.163 -12.085
+   }
+   ShapePoint "{5470F483D91BBA02}" {
+    Position 61.552 -0.071 13.802
+   }
+   ShapePoint "{5470F483D91BB99A}" {
+    Position 84.122 -0.018 68.132
+   }
+   ShapePoint "{5470F483D91BB9F9}" {
+    Position 104.704 0.069 115.819
+   }
+   ShapePoint "{5470F483D91BB95F}" {
+    Position 145.952 -0.114 157.68
+   }
+   ShapePoint "{5470F483D91BB881}" {
+    Position 188.036 -0.067 176.41
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 25742
+ }
+ {
+  coords 4157.225 0.016 9346.651
+  SplinePoints {
+   ShapePoint "{5470F48333887CB3}" {
+    Position -3.858 -0.252 0
+   }
+   ShapePoint "{5470F4833388731C}" {
+    Position 12.41 -0.318 12.298
+   }
+   ShapePoint "{5470F48333887286}" {
+    Position 47.068 -0.546 16.946
+   }
+   ShapePoint "{5470F48333887238}" {
+    Position 137.267 -0.395 5
+   }
+   ShapePoint "{5470F48333887182}" {
+    Position 226.72 -0.336 -13.518
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 22436
+ }
+ {
+  coords 3773.367 -0.079 8546.668
+  SplinePoints {
+   ShapePoint "{5470F48295C14002}" {
+    Position -4.619 -0.387 2.234
+   }
+   ShapePoint "{5470F48295C1462F}" {
+    Position 6.484 -0.061 17.963
+   }
+   ShapePoint "{5470F48295C145B6}" {
+    Position 43.069 0 43.958
+   }
+   ShapePoint "{5470F48295C1450E}" {
+    Position 67.236 0 73.604
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 4961
+ }
+ {
+  coords 3773.367 -0.079 8546.668
+  SplinePoints {
+   ShapePoint "{5470F48295C14002}" {
+    Position -4.619 -0.387 2.234
+   }
+   ShapePoint "{5470F48295C1462F}" {
+    Position 6.484 -0.061 17.963
+   }
+   ShapePoint "{5470F48295C145B6}" {
+    Position 43.069 0 43.958
+   }
+   ShapePoint "{5470F48295C1450E}" {
+    Position 67.236 0 73.604
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 7833
+ }
+ {
+  coords 1043.552 2.845 6200.016
+  SplinePoints {
+   ShapePoint "{5186C2630425FD28}" {
+    Position 34.609 -0.032 -64.625
+   }
+   ShapePoint "{5186C2630425FB9E}" {
+    Position -5.725 -0.033 20.409
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 40
+  Material "{8B155CEDB41C2C64}Assets/Decals/Markings/Runway/Data/RunwayConcrete_01_40m.emat"
+  RandomSeed 2389
+ }
+ {
+  coords 1037.964 2.836 6013.593
+  SplinePoints {
+   ShapePoint "{5538ECAC469BC3C9}" {
+    Position 2.396 0.408 -11.354
+   }
+   ShapePoint "{5538ECAC469BC254}" {
+    Position 0.663 0.055 -2.117
+   }
+   ShapePoint "{5538ECAC469BC1C4}" {
+    Position 2.13 -0.18 8.979
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 8
+  Material "{96130843651B669E}Assets/Decals/Markings/Runway/Data/RunwaySkidMarks_01_Light.emat"
+  RandomSeed 3297
+  MatSortBias 2
+ }
+ {
+  coords 1004.892 0.33 6261.278
+  SplinePoints {
+   ShapePoint "{523E6841A99D54F4}" {
+    Position -11.936 2.661 119.867
+   }
+   ShapePoint "{523E6841A99D534A}" {
+    Position -15.233 0.284 85.725
+   }
+   ShapePoint "{523E6841A517805B}" {
+    Position -17.481 0.413 71.279
+   }
+   ShapePoint "{523E6841A13F7AFE}" {
+    Position -16.236 0.745 58.509
+   }
+   ShapePoint "{523E68419C6E4B1F}" {
+    Position -15.787 0.389 45.314
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  VScale 0.5
+  RandomSeed 15407
+ }
+ {
+  coords 7895.782 0.828 5827.871
+  SplinePoints {
+   ShapePoint "{5248871B4B0BAEC0}" {
+    Position 149.745 0.816 35.3
+   }
+   ShapePoint "{5248871B4B0BAD55}" {
+    Position 144.324 0.414 39.737
+   }
+   ShapePoint "{52488718BC2FFF39}" {
+    Position 138.919 0.172 44.528
+   }
+   ShapePoint "{52488718BC542611}" {
+    Position 128.558 0.27 47.759
+   }
+   ShapePoint "{52488718BD6C2339}" {
+    Position 122.115 0.124 50.297
+   }
+   ShapePoint "{52488718BDF075D4}" {
+    Position 116.077 0.108 51.309
+   }
+   ShapePoint "{52488718BF044663}" {
+    Position 107.924 -0.134 54.774
+   }
+   ShapePoint "{52488718BF6A9CB2}" {
+    Position 99.503 0.009 54.648
+   }
+   ShapePoint "{52488718BF590654}" {
+    Position 90.942 0.077 54.595
+   }
+   ShapePoint "{52488718A39B222E}" {
+    Position 84.974 -0.086 55.004
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -4.897 -0.053 -0.233
+      OutTangent -4.897 -0.053 -0.233
+     }
+    }
+   }
+   ShapePoint "{5248871855CD5457}" {
+    Position 80.498 -0.121 54.535
+   }
+   ShapePoint "{52488718565126C2}" {
+    Position 72.899 -0.284 54.101
+   }
+   ShapePoint "{52488718572BC758}" {
+    Position 67.095 -0.31 52.386
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 12
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 12513
+ }
+ {
+  coords 7554.496 166.855 4304.082
+  SplinePoints {
+   ShapePoint "{5538ECAC469BC3C9}" {
+    Position 1.387 -0.011 2.818
+   }
+   ShapePoint "{5538ECAC469BC254}" {
+    Position 2.47 -0.011 6.49
+   }
+   ShapePoint "{5538ECAC469BC1C4}" {
+    Position 4.72 -0.011 15.896
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 8
+  Material "{96130843651B669E}Assets/Decals/Markings/Runway/Data/RunwaySkidMarks_01_Light.emat"
+  RandomSeed 31145
+  MatSortBias 2
+ }
+ {
+  coords 7554.496 166.855 4304.082
+  SplinePoints {
+   ShapePoint "{5538ECAC469BC3C9}" {
+    Position 4.994 -0.011 11.72
+   }
+   ShapePoint "{5538ECAC469BC254}" {
+    Position 5.701 -0.011 16.764
+   }
+   ShapePoint "{5538ECAC469BC1C4}" {
+    Position 4.333 -0.011 21.509
+   }
+   ShapePoint "{5538ECAC469BC15A}" {
+    Position 0.397 -0.011 24.518
+   }
+   ShapePoint "{5538ECAFACEEF2F2}" {
+    Position -8.535 -0.244 26.713
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 8
+  Material "{96130843651B669E}Assets/Decals/Markings/Runway/Data/RunwaySkidMarks_01_Light.emat"
+  RandomSeed 24235
+  MatSortBias 2
+ }
+ {
+  coords 7554.497 166.855 4304.081
+  SplinePoints {
+   ShapePoint "{5538ECAC469BC3C9}" {
+    Position -16.378 -0.656 28.509
+   }
+   ShapePoint "{5538ECAC469BC254}" {
+    Position -21.412 -0.981 29.697
+   }
+   ShapePoint "{5538ECAC469BC1C4}" {
+    Position -25.921 -1.19 31.212
+   }
+   ShapePoint "{5538ECAF8E00D305}" {
+    Position -30.228 -1.209 31.268
+   }
+   ShapePoint "{5538ECAF8EB6FB32}" {
+    Position -34.725 -1.139 28.327
+   }
+   ShapePoint "{5538ECAF8F2E46DC}" {
+    Position -36.74 -1.105 23.18
+   }
+   ShapePoint "{5538ECAF8A6A81D7}" {
+    Position -37.69 -1.105 16.772
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 8
+  Material "{96130843651B669E}Assets/Decals/Markings/Runway/Data/RunwaySkidMarks_01_Light.emat"
+  RandomSeed 5573
+  MatSortBias 2
+ }
+ {
+  coords 7521.471 165.682 4335.054
+  SplinePoints {
+   ShapePoint "{5538ECAC469BC3C9}" {
+    Position -1.932 0.047 -3.692
+   }
+   ShapePoint "{5538ECAC469BC254}" {
+    Position -0.542 -0.016 0.306
+   }
+   ShapePoint "{5538ECAC469BC1C4}" {
+    Position 1.028 -0.173 6.367
+   }
+   ShapePoint "{5538ECAC469BC15A}" {
+    Position 2.178 -0.25 10.001
+   }
+   ShapePoint "{5538ECAFD8FAEBD6}" {
+    Position 4.07 -0.33 16.396
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 8
+  Material "{96130843651B669E}Assets/Decals/Markings/Runway/Data/RunwaySkidMarks_01_Light.emat"
+  RandomSeed 4492
+  MatSortBias 2
+ }
+ {
+  coords 7428.759 9.688 6801.005
+  SplinePoints {
+   ShapePoint "{55384DCFD5E8E3BB}" {
+    Position 4.121 -0.001 -24.212
+   }
+   ShapePoint "{55384DCFD5E8E2E7}" {
+    Position 4.853 -0.001 -29.067
+   }
+   ShapePoint "{55384DCFD5E8E26D}" {
+    Position 4.7 0.01 -32.902
+   }
+   ShapePoint "{55384DCFD5E8E1E4}" {
+    Position 3.564 -0.026 -37.311
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 8
+  Material "{96130843651B669E}Assets/Decals/Markings/Runway/Data/RunwaySkidMarks_01_Light.emat"
+  RandomSeed 165
+  MatSortBias 2
+ }
+ {
+  coords 5035.25 15.376 3960.466
+  SplinePoints {
+   ShapePoint "{551A91DF95D1711C}" {
+    Position -0.596 -0.001 -2.149
+   }
+   ShapePoint "{551A91DF95D14F8C}" {
+    Position -0.012 -0.001 -0.132
+   }
+   ShapePoint "{551A91DF95D15045}" {
+    Position 2.352 -0.001 5.41
+   }
+   ShapePoint "{551A91DC0A9FDB32}" {
+    Position 5.885 -0.008 9.08
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 6
+  Material "{96130843651B669E}Assets/Decals/Markings/Runway/Data/RunwaySkidMarks_01_Light.emat"
+  RandomSeed 31486
+  RoadSort 5
+  MatSortBias 7
+ }
+ {
+  coords 7964.314 174.875 4449.559
+  SplinePoints {
+   ShapePoint "{52488718286DB630}" {
+    Position 0.743 0.066 -1.202
+   }
+   ShapePoint "{52488718286DB550}" {
+    Position -5.107 -0.61 0.523
+   }
+   ShapePoint "{556666F8B785341C}" {
+    Position -10.18 -1.238 1.488
+   }
+   ShapePoint "{556666F8B457C015}" {
+    Position -12.928 -1.272 1.753
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 5
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  VScale 0.5
+  RandomSeed 10297
+ }
+ {
+  coords 11571.564 -0.714 2424.714
+  SplinePoints {
+   ShapePoint "{52A09D8EEF29FD14}" {
+    Position -30.422 0.105 -25.813
+   }
+   ShapePoint "{52A09D8EEF29FC4C}" {
+    Position -41.746 0.738 -19.352
+   }
+   ShapePoint "{52A09D8EEF29F3D2}" {
+    Position -62.123 -0.081 1.421
+   }
+   ShapePoint "{52A09D8EEF29F35B}" {
+    Position -61.695 0.733 23.923
+   }
+   ShapePoint "{52A09D8EEF29F2A8}" {
+    Position -45.333 0.761 29.604
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 31.566 1.495 -17.255
+      OutTangent 31.566 1.495 -17.255
+     }
+    }
+   }
+   ShapePoint "{52A09D8EEF29F22E}" {
+    Position -30.451 -0.019 11.585
+   }
+   ShapePoint "{52A09D8EE41C5AED}" {
+    Position -2.469 -0.276 0.888
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 19.858 -0.82 -11.431
+      OutTangent 19.858 -0.82 -11.431
+     }
+    }
+   }
+   ShapePoint "{52A09D8EDB9503DA}" {
+    Position 16.712 -0.746 -2.828
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 12835
+ }
+ {
+  coords 11735.791 0.075 1959.232
+  SplinePoints {
+   ShapePoint "{525494F322C81E93}" {
+    Position -118.35 -1.141 -575.36
+   }
+   ShapePoint "{525494F322C81D32}" {
+    Position -145.107 -2.807 -563.572
+   }
+   ShapePoint "{525494F322C81CBA}" {
+    Position -172.443 -0.464 -542.511
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 27714
+ }
+ {
+  coords 8896.918 -0.312 5572.331
+  SplinePoints {
+   ShapePoint "{52AAD825BA963D7B}" {
+    Position 457.783 0.771 -374.113
+   }
+   ShapePoint "{52AAD825BA9633D6}" {
+    Position 467.482 0.672 -326.487
+   }
+   ShapePoint "{52AAD825BA96335F}" {
+    Position 477.076 0.613 -295.712
+   }
+   ShapePoint "{52AAD825BA9632B9}" {
+    Position 488.081 0.703 -256.577
+   }
+   ShapePoint "{52AAD825BA963215}" {
+    Position 488.295 0.627 -221.82
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 20542
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1489.983 0.374 2568.635
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1475.052 -0.067 2515.592
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1474.417 -0.004 2458.799
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 24437
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -69.388 -0.431 233.823
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -80.44 -0.411 212.191
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -85.836 -0.34 170.303
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -80.23 -1.364 143.112
+   }
+   ShapePoint "{525494F50A1E7655}" {
+    Position -82.354 -0.871 121.463
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 27069
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -50.907 -0.58 61.601
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -43.93 0.021 42.895
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -35.341 -0.015 29.248
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -7.966 -0.285 17.404
+   }
+   ShapePoint "{525494F50A1E7655}" {
+    Position 15.506 -0.548 5.264
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 42.026 0.005 -41.221
+      OutTangent 42.026 0.005 -41.221
+     }
+    }
+   }
+   ShapePoint "{525494F50A1E75DF}" {
+    Position 46.975 -0.279 -36.484
+   }
+   ShapePoint "{525494F50A1E7525}" {
+    Position 112.625 -0.282 -70.943
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 9932
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position 187.294 -0.667 -85.926
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position 242.529 -0.194 -92.785
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position 269.272 -0.639 -72.599
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position 282.424 -0.625 -42.824
+   }
+   ShapePoint "{525494F50A1E7655}" {
+    Position 281.211 -0.387 -1.425
+   }
+   ShapePoint "{525494F50A1E75DF}" {
+    Position 254.686 -0.116 34.349
+   }
+   ShapePoint "{525494F50A1E7525}" {
+    Position 206.512 -0.075 62.183
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 4310
+ }
+ {
+  coords 11735.791 0.075 1959.232
+  SplinePoints {
+   ShapePoint "{525494F322C81E93}" {
+    Position -760.891 -0.815 -490.071
+   }
+   ShapePoint "{525494F322C81D32}" {
+    Position -799.269 -0.7 -477.434
+   }
+   ShapePoint "{525494F322C81CBA}" {
+    Position -811.223 -0.493 -461.155
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -15.316 -0.288 11.842
+      OutTangent -15.316 -0.288 11.842
+     }
+    }
+   }
+   ShapePoint "{525494F322C81C07}" {
+    Position -826.974 -1.221 -456.013
+   }
+   ShapePoint "{525494F322C81399}" {
+    Position -850.002 -1.2 -456.145
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 4165
+ }
+ {
+  coords 11735.791 0.075 1959.232
+  SplinePoints {
+   ShapePoint "{525494F322C81E93}" {
+    Position -650.285 -0.353 -453.592
+   }
+   ShapePoint "{525494F322C81D32}" {
+    Position -674.793 -0.271 -463.604
+   }
+   ShapePoint "{525494F322C81CBA}" {
+    Position -716.156 -0.434 -476.858
+   }
+   ShapePoint "{525494F322C81C07}" {
+    Position -760.891 -0.815 -490.071
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 13764
+ }
+ {
+  coords 11735.791 0.075 1959.232
+  SplinePoints {
+   ShapePoint "{525494F322C81E93}" {
+    Position -428.554 -0.746 -494.87
+   }
+   ShapePoint "{525494F322C81D32}" {
+    Position -456.274 -1.13 -477.255
+   }
+   ShapePoint "{525494F322C81CBA}" {
+    Position -460.378 -0.882 -451.867
+   }
+   ShapePoint "{525494F322C81C07}" {
+    Position -467.923 -1.568 -432.386
+   }
+   ShapePoint "{525494F322C81399}" {
+    Position -479.806 -0.767 -411.476
+   }
+   ShapePoint "{525494F322C813F7}" {
+    Position -499.263 -1.021 -402.965
+   }
+   ShapePoint "{525494F322C81350}" {
+    Position -523.841 -1.189 -390.018
+   }
+   ShapePoint "{525494F322C812AC}" {
+    Position -544.808 -0.653 -378.45
+   }
+   ShapePoint "{525494F322C8120D}" {
+    Position -565.435 -0.561 -387.393
+   }
+   ShapePoint "{525494F322C81273}" {
+    Position -579.476 -0.81 -408.976
+   }
+   ShapePoint "{525494F322C811CC}" {
+    Position -597.593 -0.761 -433.416
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -26.917 -0.096 -15.31
+      OutTangent -26.917 -0.096 -15.31
+     }
+    }
+   }
+   ShapePoint "{525494F322C8112C}" {
+    Position -623.945 -0.37 -430.859
+   }
+   ShapePoint "{525494F322C8108E}" {
+    Position -650.285 -0.353 -453.592
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 1175
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1566.584 -0.057 2836.715
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1574.351 -0.196 2816.63
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1592.516 0.379 2797.323
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -1594.574 -0.202 2772.93
+   }
+   ShapePoint "{525494F50A1E7655}" {
+    Position -1604.499 0.417 2753.654
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 6688
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1604.499 0.417 2753.654
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1604.317 -0.055 2723.606
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1585.453 -0.19 2696.864
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -1554.845 -0.031 2667.141
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 12.748 4.751 -20.818
+      OutTangent 12.748 4.751 -20.818
+     }
+    }
+   }
+   ShapePoint "{525494F50A1E7655}" {
+    Position -1545.73 0.781 2641.681
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 21422
+ }
+ {
+  coords 11370.78 -0.006 2318.407
+  SplinePoints {
+   ShapePoint "{525494F50A1E715D}" {
+    Position -1474.417 -0.004 2458.799
+   }
+   ShapePoint "{525494F50A1E77B1}" {
+    Position -1474.639 0.026 2416.647
+   }
+   ShapePoint "{525494F50A1E7726}" {
+    Position -1475.241 -0.079 2389.381
+   }
+   ShapePoint "{525494F50A1E76D8}" {
+    Position -1481.091 0.312 2341.859
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{7156E110EB022562}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_02.emat"
+  RandomSeed 30711
+ }
+ {
+  coords 8896.918 -0.312 5572.331
+  SplinePoints {
+   ShapePoint "{52AAD825BA963D7B}" {
+    Position 270.533 0.757 -6.839
+   }
+   ShapePoint "{52AAD825BA9633D6}" {
+    Position 252.906 0.536 28.316
+   }
+   ShapePoint "{52AAD825BA96335F}" {
+    Position 222.824 0.483 68.631
+   }
+   ShapePoint "{52AAD825BA9632B9}" {
+    Position 190.499 0.697 87.659
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 6638
+ }
+ {
+  coords 8896.918 -0.312 5572.331
+  SplinePoints {
+   ShapePoint "{52AAD825BA963D7B}" {
+    Position 190.499 1.092 83.328
+   }
+   ShapePoint "{52AAD825BA9633D6}" {
+    Position 136.545 0.577 92.985
+   }
+   ShapePoint "{52AAD825BA96335F}" {
+    Position 81.307 0.556 75.041
+   }
+   ShapePoint "{52AAD825BA9632B9}" {
+    Position 30.814 0.607 44.543
+   }
+   ShapePoint "{52AAD825BA963215}" {
+    Position 12.258 0.532 19.042
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 17029
+ }
+ {
+  coords 8896.918 -0.312 5572.331
+  SplinePoints {
+   ShapePoint "{52AAD825BA963D7B}" {
+    Position 12.035 0.508 19.042
+   }
+   ShapePoint "{52AAD825BA9633D6}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 11394
+ }
+ {
+  coords 8896.918 -0.312 5572.331
+  SplinePoints {
+   ShapePoint "{52AAD825BA963D7B}" {
+    Position 396.25 0.49 -129.622
+   }
+   ShapePoint "{52AAD825BA9633D6}" {
+    Position 336.157 0.136 -116.156
+   }
+   ShapePoint "{52AAD825BA96335F}" {
+    Position 290.825 0.862 -76.148
+   }
+   ShapePoint "{52AAD825BA9632B9}" {
+    Position 275.988 0.832 -24.11
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 21941
+ }
+ {
+  coords 8896.918 -0.312 5572.331
+  SplinePoints {
+   ShapePoint "{52AAD825BA963D7B}" {
+    Position 488.295 0.627 -221.82
+   }
+   ShapePoint "{52AAD825BA9633D6}" {
+    Position 470.831 0.523 -161.715
+   }
+   ShapePoint "{52AAD825BA96335F}" {
+    Position 440.542 0.569 -134.27
+   }
+   ShapePoint "{52AAD825BA9632B9}" {
+    Position 396.25 0.49 -129.622
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 11596
+ }
+ {
+  coords 8806.284 0.319 589.612
+  SplinePoints {
+   ShapePoint "{546921696A328243}" {
+    Position 2.318 0.645 0
+   }
+   ShapePoint "{546921696A32849C}" {
+    Position -44.879 -0.23 -7.93
+   }
+   ShapePoint "{546921696A328407}" {
+    Position -101.492 -0.369 1.309
+   }
+   ShapePoint "{546921696A3285A9}" {
+    Position -139.117 -0.774 31.187
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 21221
+ }
+ {
+  coords 7738.763 -0.044 1476.486
+  SplinePoints {
+   ShapePoint "{54694B87BFBBB920}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{54694B87BFBBBB88}" {
+    Position -61.364 -0.575 -40.118
+   }
+   ShapePoint "{54694B87BFBBBB3F}" {
+    Position -125.988 -0.189 -75.791
+   }
+   ShapePoint "{54694B87BFBBBCA0}" {
+    Position -162.084 -0.178 -118.653
+   }
+   ShapePoint "{54694B87BFBBBC26}" {
+    Position -212.285 -0.022 -169.369
+   }
+   ShapePoint "{54694B87BFBBBDDA}" {
+    Position -266.27 -0.172 -202.121
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 11057
+ }
+ {
+  coords 10229.94 0.076 1483.241
+  SplinePoints {
+   ShapePoint "{546CAED1A142BA6E}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{546CAED1A142B8E2}" {
+    Position 42.477 -0.044 -24.018
+   }
+   ShapePoint "{546CAED1A142BF8D}" {
+    Position 83.035 0.046 -19.893
+   }
+   ShapePoint "{546CAED1A142BF17}" {
+    Position 123.386 0.087 -12.668
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 7288
+ }
+ {
+  coords 10477.629 -0.061 1490.919
+  SplinePoints {
+   ShapePoint "{546CAED1FAC71FFB}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{546CAED1FAC71EE2}" {
+    Position 24.267 0.04 -16.605
+   }
+   ShapePoint "{546CAED1FAC71E68}" {
+    Position 73.005 -0.075 -12.713
+   }
+   ShapePoint "{546CAED1FAC71DC1}" {
+    Position 147.732 0.153 -5.862
+   }
+   ShapePoint "{546CAED1FAC71D25}" {
+    Position 194.518 -0.02 24.82
+   }
+   ShapePoint "{546CAED1FAC71C88}" {
+    Position 240.131 -0.136 7.448
+   }
+   ShapePoint "{546CAED1FAC71CE9}" {
+    Position 311.787 0.279 -7.051
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 13
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 6607
+ }
+ {
+  coords 7738.763 -0.044 1476.486
+  SplinePoints {
+   ShapePoint "{54694B87BFBBB920}" {
+    Position -655.204 -9.78 66.941
+   }
+   ShapePoint "{54694B87BFBBBB88}" {
+    Position -672.273 0 105.485
+   }
+   ShapePoint "{563C865CA8953CEE}" {
+    Position -719.633 0.315 145.9
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 15
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 12088
+ }
+ {
+  coords 5592.544 0.329 11382.979
+  SplinePoints {
+   ShapePoint "{52C6AD29F6289712}" {
+    Position 0 -0.001 -0.001
+   }
+   ShapePoint "{52C6AD29F6289621}" {
+    Position 21.272 -1.785 -13.877
+   }
+   ShapePoint "{52C6AD29F62895A5}" {
+    Position 44.997 0 -40.399
+   }
+   ShapePoint "{52C6AD29F6289504}" {
+    Position 79.487 0 -72.322
+   }
+   ShapePoint "{52C6AD29F628956D}" {
+    Position 104.849 0 -123.436
+   }
+   ShapePoint "{52C6AD29F62894D1}" {
+    Position 126.519 0 -188.107
+   }
+   ShapePoint "{52C6AD29F628943A}" {
+    Position 150.271 0 -236.437
+   }
+   ShapePoint "{52C6AD29F6286B9C}" {
+    Position 184.482 0 -265.517
+   }
+   ShapePoint "{52C6AD29F6286BC3}" {
+    Position 217.413 0 -308.387
+   }
+   ShapePoint "{52C6AD29F6286B54}" {
+    Position 247.039 0 -361.065
+   }
+   ShapePoint "{52C6AD29F6286AB5}" {
+    Position 263.808 0 -417.289
+   }
+   ShapePoint "{52C6AD29F6286A10}" {
+    Position 268.797 0 -485.805
+   }
+   ShapePoint "{52C6AD29F6286A73}" {
+    Position 264.922 0 -552.787
+   }
+   ShapePoint "{52C6AD29F62869C9}" {
+    Position 274.761 0.252 -580.303
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 22.43 0 -18.057
+      OutTangent 22.43 0 -18.057
+     }
+    }
+   }
+   ShapePoint "{52C6AD29F6286929}" {
+    Position 306.861 0 -582.977
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 28.193 0 -15.924
+      OutTangent 28.193 0 -15.924
+     }
+    }
+   }
+   ShapePoint "{52C6AD29F6286885}" {
+    Position 310.177 0 -611.821
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 994
+ }
+ {
+  coords 7372.822 -0.256 9551.541
+  SplinePoints {
+   ShapePoint "{531495E9774FD209}" {
+    Position -127.691 0.458 -541.8
+   }
+   ShapePoint "{531495E9774FD0D5}" {
+    Position -108.244 0.028 -545.636
+   }
+   ShapePoint "{531495E9774FD05C}" {
+    Position -79.219 0.175 -558.025
+   }
+   ShapePoint "{553CAED0673A9084}" {
+    Position -58.497 0.499 -567.92
+   }
+   ShapePoint "{553CAED065C4811F}" {
+    Position -38.498 0.073 -564.06
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 20384
+ }
+ {
+  coords 6492.264 -0.121 9870.113
+  SplinePoints {
+   ShapePoint "{52CC930BFF5716E2}" {
+    Position 1.211 0.084 2.017
+   }
+   ShapePoint "{52CC930BFF57155C}" {
+    Position -18.735 0.051 13.822
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -8.541 -0.133 26.343
+      OutTangent -8.541 -0.133 26.343
+     }
+    }
+   }
+   ShapePoint "{52CC930BFF5714D8}" {
+    Position -3.239 -0.083 35.934
+   }
+   ShapePoint "{52CC930BFF571421}" {
+    Position 22.166 -0.197 46.62
+   }
+   ShapePoint "{52CC930BFF54EBA8}" {
+    Position 39.225 -0.421 40.084
+   }
+   ShapePoint "{52CC930BFF54EB37}" {
+    Position 48.246 -0.28 18.223
+   }
+   ShapePoint "{52CC930BFF54EA8C}" {
+    Position 36.589 -0.389 6.349
+   }
+   ShapePoint "{52CC930BFF54EAE6}" {
+    Position 15.964 -0.563 1.565
+   }
+   ShapePoint "{52CC930BFF54EA74}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 13801
+ }
+ {
+  coords 5841.151 -0.894 9594.371
+  SplinePoints {
+   ShapePoint "{52CC9304DF3D44FF}" {
+    Position -10.915 1.221 -68.103
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 29302
+ }
+ {
+  coords 5841.151 -0.894 9594.371
+  SplinePoints {
+   ShapePoint "{52CC9304DF3D44FF}" {
+    Position 633.194 1.182 -686.003
+   }
+   ShapePoint "{52CC9304DF3D5B43}" {
+    Position 615.648 1.269 -679.795
+   }
+   ShapePoint "{52CC9304DF3D5AFC}" {
+    Position 603.317 0.911 -677.05
+   }
+   ShapePoint "{52CC9304DF3D5A58}" {
+    Position 560.44 0.869 -675.306
+   }
+   ShapePoint "{52CC9304DF3D59BE}" {
+    Position 546.053 1.177 -678.248
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 19138
+ }
+ {
+  coords 5841.151 -0.894 9594.371
+  SplinePoints {
+   ShapePoint "{52CC9304DF3D44FF}" {
+    Position 68.643 0.312 35.656
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 17266
+ }
+ {
+  coords 5474.656 -0.287 12197.601
+  SplinePoints {
+   ShapePoint "{52CC930D72E9FAC6}" {
+    Position -0.03 -0.654 -11.145
+   }
+   ShapePoint "{52CC930D72E9F937}" {
+    Position 25.926 0.151 -2.614
+   }
+   ShapePoint "{52CC930D72E9F8B7}" {
+    Position 49.108 -0.133 -8.695
+   }
+   ShapePoint "{52CC930D72E9F838}" {
+    Position 68.157 0.167 -24.943
+   }
+   ShapePoint "{52CC930D72E9FF80}" {
+    Position 94.337 -0.579 -23.35
+   }
+   ShapePoint "{52CC930D72E9FF0C}" {
+    Position 118.475 0.33 -48.72
+   }
+   ShapePoint "{52CC930D72E9FE9B}" {
+    Position 150.329 -0.304 -73.887
+   }
+   ShapePoint "{52CC930D72E9FEE5}" {
+    Position 164.413 -0.075 -109.476
+   }
+   ShapePoint "{52CC930D72E9FE69}" {
+    Position 160.042 -0.093 -147.695
+   }
+   ShapePoint "{52CC930D72E9FDEF}" {
+    Position 136.47 0.02 -162.149
+   }
+   ShapePoint "{52CC930D72E9FD77}" {
+    Position 106.648 0.26 -158.402
+   }
+   ShapePoint "{52CC930D72E9FCFC}" {
+    Position 88.613 0.168 -139.242
+   }
+   ShapePoint "{52CC930D72E9FC48}" {
+    Position 80.839 0.118 -113.378
+   }
+   ShapePoint "{52CC930D72E9F3D7}" {
+    Position 52.091 -0.576 -87.941
+   }
+   ShapePoint "{52CC930D72E9F35C}" {
+    Position 37.777 -0.13 -63.407
+   }
+   ShapePoint "{52CC930D72E9F2AD}" {
+    Position 17.168 0.178 -28.099
+   }
+   ShapePoint "{52CC930D72E9F23F}" {
+    Position 2.443 -0.45 -18.729
+   }
+   ShapePoint "{52CC930D72E9F184}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 4697
+ }
+ {
+  coords 7372.822 -0.256 9551.541
+  SplinePoints {
+   ShapePoint "{531495E9774FD209}" {
+    Position -6.666 0.182 -568.862
+   }
+   ShapePoint "{531495E9774FD0D5}" {
+    Position 22.336 0.383 -569.811
+   }
+   ShapePoint "{531495E9774FD05C}" {
+    Position 52.829 0.587 -575.767
+   }
+   ShapePoint "{553CAED0673A9084}" {
+    Position 86.221 0.01 -567.845
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 437
+ }
+ {
+  coords 5841.151 -0.894 9594.371
+  SplinePoints {
+   ShapePoint "{52CC9304DF3D44FF}" {
+    Position 353.814 0.894 -826.753
+   }
+   ShapePoint "{52CC9304DF3D5B43}" {
+    Position 345.297 1.433 -877.405
+   }
+   ShapePoint "{52CC9304DF3D5AFC}" {
+    Position 341.522 0.78 -921.657
+   }
+   ShapePoint "{52CC9304DF3D5A58}" {
+    Position 323.268 0.973 -958.644
+   }
+   ShapePoint "{52CC9304DF3D59BE}" {
+    Position 287.666 0.51 -966.904
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 19100
+ }
+ {
+  coords 6077.99 -0.584 10218.262
+  SplinePoints {
+   ShapePoint "{52C6C40483B3F2BC}" {
+    Position -156.867 0.314 -580.694
+   }
+   ShapePoint "{52C6C40483B3F1F3}" {
+    Position -171.512 0.661 -589.911
+   }
+   ShapePoint "{52C6C40483B3F147}" {
+    Position -192.331 0.804 -613.621
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 26976
+ }
+ {
+  coords 6077.99 -0.584 10218.262
+  SplinePoints {
+   ShapePoint "{52C6C40483B3F2BC}" {
+    Position -64.031 0.56 -544.195
+   }
+   ShapePoint "{52C6C40483B3F1F3}" {
+    Position -83.107 0.52 -544.946
+   }
+   ShapePoint "{52C6C40483B3F147}" {
+    Position -100.504 0.515 -548.391
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 9561
+ }
+ {
+  coords 8805.921 0.889 5416.307
+  SplinePoints {
+   ShapePoint "{52CCB6B9DEC662D2}" {
+    Position -536.896 -0.976 -10.498
+   }
+   ShapePoint "{52CCB6B9DEC660AC}" {
+    Position -485.89 -1.064 8.247
+   }
+   ShapePoint "{52CCB6B9DEC6602C}" {
+    Position -377.635 -0.994 40.115
+   }
+   ShapePoint "{52CCB6B9DEC66788}" {
+    Position -311.803 -1.099 63.665
+   }
+   ShapePoint "{52CCB6B9DEC667EB}" {
+    Position -258.414 -1.321 88.426
+   }
+   ShapePoint "{52CCB6B9DEC6674E}" {
+    Position -210.164 -1.542 67.202
+   }
+   ShapePoint "{52CCB6B9DEC666AC}" {
+    Position -163.258 -0.871 30.388
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 23185
+ }
+ {
+  coords 4290.89 -0.76 9735.027
+  SplinePoints {
+   ShapePoint "{52D6A3F2A6793352}" {
+    Position -2.548 0.38 1.732
+   }
+   ShapePoint "{52D6A3F2A67931F6}" {
+    Position -38.242 0.38 0.329
+   }
+   ShapePoint "{52D6A3F2A6793179}" {
+    Position -65.09 0.375 -3.7
+   }
+   ShapePoint "{52D6A3F2A67930DA}" {
+    Position -105.301 0.348 1.535
+   }
+   ShapePoint "{52D6A3F2A679303B}" {
+    Position -132.984 0.619 11.762
+   }
+   ShapePoint "{52D6A3F2A679379A}" {
+    Position -157.859 0.689 12.02
+   }
+   ShapePoint "{52D6A3F2A67937F8}" {
+    Position -181.866 0.64 26.328
+   }
+   ShapePoint "{52D6A3F2A679375F}" {
+    Position -179.919 0.692 70.375
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 10667
+ }
+ {
+  coords 4035.553 0.043 9823.551
+  SplinePoints {
+   ShapePoint "{52D6A3F2E98D0046}" {
+    Position 65.627 -0.618 35.306
+   }
+   ShapePoint "{52D6A3F2E98D0764}" {
+    Position 47.195 -0.302 37.438
+   }
+   ShapePoint "{52D6A3F2E98D06F2}" {
+    Position 15.931 -0.519 34.977
+   }
+   ShapePoint "{52D6A3F2E98D0650}" {
+    Position -3.328 0.029 49.639
+   }
+   ShapePoint "{52D6A3F2E98D05B1}" {
+    Position -19.987 0.312 89.517
+   }
+   ShapePoint "{52D6A3F2E98D0509}" {
+    Position -27.728 0.437 130.871
+   }
+   ShapePoint "{52D6A3F2E98D0569}" {
+    Position -43.964 -0.004 156.121
+   }
+   ShapePoint "{52D6A3F2E98D04D2}" {
+    Position -58.057 0.064 170.116
+   }
+   ShapePoint "{52D6A3F67E24C606}" {
+    Position -65.807 -0.139 210.328
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 12682
+ }
+ {
+  coords 3969.697 -0.149 10157.118
+  SplinePoints {
+   ShapePoint "{52D6A3F23B161386}" {
+    Position -6.504 -0.032 -82.512
+   }
+   ShapePoint "{52D6A3F23B1612A1}" {
+    Position -12.65 -0.209 -48.711
+   }
+   ShapePoint "{52D6A3F23B16122A}" {
+    Position -11.119 -0.225 -30.508
+   }
+   ShapePoint "{52D6A3F23B161182}" {
+    Position -2.838 -0.288 -20.853
+   }
+   ShapePoint "{52D6A3F23B16111C}" {
+    Position 0 -0.001 0
+   }
+   ShapePoint "{52D6A3F23B16116D}" {
+    Position -5.206 -0.274 23.789
+   }
+   ShapePoint "{52D6A3F23B1610CE}" {
+    Position -16.53 0.316 63.817
+   }
+   ShapePoint "{52D6A3F23B161027}" {
+    Position -13.646 1.02 110.703
+   }
+   ShapePoint "{52D6A3F23B1617BD}" {
+    Position -40.322 -0.031 154.042
+   }
+   ShapePoint "{52D6A3F23B161717}" {
+    Position -45.205 0.298 210.967
+   }
+   ShapePoint "{52D6A3F23B16176D}" {
+    Position -75.193 -0.006 277.55
+   }
+   ShapePoint "{52D6A3F23B1616C1}" {
+    Position -81.136 -0.097 337.012
+   }
+   ShapePoint "{52D6A3F22A7DB027}" {
+    Position -64.236 0.237 391.684
+   }
+   ShapePoint "{52D6A3F22AF556EC}" {
+    Position -47.319 -0.23 448.589
+   }
+   ShapePoint "{52D6A3F2297E9318}" {
+    Position -19.664 0.377 451.501
+   }
+   ShapePoint "{52D6A3F228256CDD}" {
+    Position -2.62 0.868 466.48
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 13849
+ }
+ {
+  coords 7511.923 -0.019 9094.723
+  SplinePoints {
+   ShapePoint "{5314F235559A2DCC}" {
+    Position -3.088 -0.299 2.558
+   }
+   ShapePoint "{5314F235559A2C28}" {
+    Position -15.671 -0.733 -33.051
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 9.02 -0.193 -30.77
+      OutTangent 9.02 -0.193 -30.77
+     }
+    }
+   }
+   ShapePoint "{5314F235559A23B3}" {
+    Position 12.846 -0.641 -51.798
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 8401
+ }
+ {
+  coords 8805.921 0.889 5416.307
+  SplinePoints {
+   ShapePoint "{52CCB6B9DEC662D2}" {
+    Position -75.891 -0.859 3.783
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -11.558 -3.115 34.024
+      OutTangent -11.558 -3.115 34.024
+     }
+    }
+   }
+   ShapePoint "{52CCB6B9DEC660AC}" {
+    Position -98.009 -1.003 32.733
+   }
+   ShapePoint "{52CCB6B9DEC6602C}" {
+    Position -104.564 -0.432 57.492
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 9.598 0.236 17.342
+      OutTangent 9.598 0.236 17.342
+     }
+    }
+   }
+   ShapePoint "{52CCB6B9DEC66788}" {
+    Position -80.453 -0.571 64.454
+   }
+   ShapePoint "{52CCB6B9DEC667EB}" {
+    Position -55.268 -1.062 43
+   }
+   ShapePoint "{52CCB6B9DEC6674E}" {
+    Position -41.052 -1.258 20.144
+   }
+   ShapePoint "{52CCB6B9DEC666AC}" {
+    Position -27.486 -1.865 8.928
+   }
+   ShapePoint "{52CCB6B9DEC6660D}" {
+    Position -10.404 -0.99 11.27
+   }
+   ShapePoint "{52CCB6B9DEC6666E}" {
+    Position -0.43 -1.648 28.781
+   }
+   ShapePoint "{52CCB6B9DEC665CA}" {
+    Position 14.686 -2.84 54.707
+   }
+   ShapePoint "{52D293A7504729C8}" {
+    Position 37.275 -0.586 88.01
+   }
+   ShapePoint "{52D293A7575F4191}" {
+    Position 58.622 -0.541 118.689
+   }
+   ShapePoint "{52D293A75603A14C}" {
+    Position 78.672 -0.743 134.554
+   }
+   ShapePoint "{52D293A756E5C4B5}" {
+    Position 90.372 -1.147 154.573
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 20652
+ }
+ {
+  coords 7511.923 -0.019 9094.723
+  SplinePoints {
+   ShapePoint "{5314F235559A2DCC}" {
+    Position 51.417 -0.145 88.143
+   }
+   ShapePoint "{5314F235559A2C28}" {
+    Position 24.375 -0.068 78.989
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent -40.453 0.674 -21.95
+      OutTangent -40.453 0.674 -21.95
+     }
+    }
+   }
+   ShapePoint "{5314F235559A23B3}" {
+    Position -1.506 0.86 43.427
+   }
+   ShapePoint "{5314F235559A2309}" {
+    Position 0 -0.001 0
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 9606
+ }
+ {
+  coords 7315.213 -0.125 9307.701
+  SplinePoints {
+   ShapePoint "{5314F236AC021E82}" {
+    Position -58.512 0.064 -1.116
+    Data {
+     SplinePointData "{00000000F01FE70A}" {
+      InTangent 12.042 6.026 -2.997
+      OutTangent 12.042 6.026 -2.997
+     }
+    }
+   }
+   ShapePoint "{5314F236AC021DCD}" {
+    Position -32.533 0.157 1.975
+   }
+   ShapePoint "{5314F236AC021D50}" {
+    Position -12.305 -0.115 -8.869
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 10
+  Material "{517BC3654B0B8C82}Assets/Decals/Stones/Beach/Data/Beach_NatureDebris_01.emat"
+  RandomSeed 7277
+ }
+ {
+  coords 5314.017 80.501 6301.785
+  SplinePoints {
+   ShapePoint "{50D47347B27D9B59}" {
+    Position 14.427 -0.001 -5.763
+   }
+   ShapePoint "{50D47347B27D99BB}" {
+    Position 1.201 -0.001 19.536
+   }
+  }
+  IsClosedSpline 0
+  Type "Not-a-road"
+  Width 19.01
+  Material "{EFDBEEECF25E523A}Assets/Decals/Markings/Runway/Data/RunwayConcrete_01_20m.emat"
+  RandomSeed 12104
+ }
+}

@@ -1,0 +1,789 @@
+$grp EnvironmentProbeEntity : "{94B6B47CDA125A62}Prefabs/Structures/Core/ProbeEnvCave_base.et" {
+ {
+  coords 9642.746 8.797 5436.926
+  {
+   $grp ProbeVolume {
+    {
+     coords 6.317 -1.498 22.626
+     Box BoundingVolume "{52AC89E0272CFE5F}" {
+      Size 9.895 7.721 29.848
+     }
+    }
+    {
+     coords 1.731 -0.738 5.414
+     Box BoundingVolume "{52AC89E0335AE51C}" {
+      Size 14.609 8.515 37.774
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 9562.264 12.095 5393.251
+  {
+   ProbeVolume {
+    coords -6.083 -2.05 -4.33
+    Box BoundingVolume "{52AE9873F8D93E99}" {
+     Size 22.855 10 18.197
+    }
+   }
+  }
+ }
+ {
+  coords 9610.278 14.144 5316.41
+  {
+   ProbeVolume {
+    coords 0.049 -1.389 -2.126
+    Box BoundingVolume "{52AE987326B898E8}" {
+    }
+   }
+  }
+ }
+ {
+  coords 10296.237 203.563 2772.633
+  {
+   $grp ProbeVolume {
+    {
+     coords 1.426 2.225 -8.954
+     angleY 18.905
+     Box BoundingVolume "{52989C94A7D48BFD}" {
+      Size 29.878 18.271 18.739
+     }
+    }
+    {
+     coords -0.721 -0.151 2.812
+     angleY 18.905
+     Box BoundingVolume "{52989C94A7D48BFD}" {
+      Size 15.094 18.271 10.575
+     }
+    }
+   }
+  }
+ }
+ {
+  coords 10933.525 117.114 2453.032
+  {
+   $grp ProbeVolume {
+    {
+     coords -3.072 -4.222 -1.153
+     angleY 58.124
+     Box BoundingVolume "{52989C94A7D48BFD}" {
+      Size 29.878 19.389 28.604
+     }
+    }
+    {
+     coords -0.061 -2.539 12.702
+    }
+   }
+  }
+ }
+ {
+  coords 9936.719 115.395 3617.518
+  NearPlane 2
+  {
+   $grp ProbeVolume {
+    CJ_caveprobe {
+     coords 1.039 -7.711 -10.764
+     angleX 31.767
+     Box BoundingVolume "{5298C4F4D02E90AA}" {
+      Size 32.736 41.928 51.081
+     }
+     BoxLerp 0.364
+    }
+    CJ_caveprobe_2 {
+     coords -3.288 -6.9 2.466
+     angleX 24.141
+     angleY -8.555
+     Box BoundingVolume "{529AF767D4C6BB92}" {
+      Size 17.861 7.741 31.351
+     }
+     BoxLerp 0.318
+    }
+   }
+  }
+ }
+ {
+  coords 10650.408 189.957 2483.709
+  CaptureLights 1
+  {
+   $grp ProbeVolume {
+    {
+     coords -19.846 2.706 24.893
+     angleY -47.409
+     Box BoundingVolume "{5298C9300BF8EFF3}" {
+      Size 49.812 28.452 87.041
+     }
+     BoxLerp 0.41
+    }
+    {
+     coords -15.958 -0.948 -24.939
+     angleY -78
+     Box BoundingVolume "{5298C930CD3F2F42}" {
+      Size 33.847 12.349 16.334
+     }
+     BoxLerp 2.516
+    }
+    {
+     coords -2.853 0.591 -12.154
+     angleY -78
+     Box BoundingVolume "{5298C930CD3F2F42}" {
+      Size 37.81 20.4 23.722
+     }
+     BoxLerp 0.381
+    }
+   }
+  }
+ }
+ {
+  coords 10523.11 106.391 2862.983
+  {
+   ProbeVolume {
+    coords -11.073 -2.61 -2.766
+    Box BoundingVolume "{529ABE4F6781A304}" {
+     Size 40.333 16.548 31.75
+    }
+    BoxLerp 0.3
+   }
+  }
+ }
+ {
+  coords 10723.355 71.219 2780.499
+  {
+   ProbeVolume {
+    coords -10.858 -2.394 -10.054
+    angleY -49.69
+    Box BoundingVolume "{529B299E14A66991}" {
+     Size 37.245 20.938 19.896
+    }
+    BoxLerp 0.042
+   }
+  }
+ }
+ {
+  coords 10824.32 184.906 2453.285
+  {
+   ProbeVolume {
+    coords -0.268 0 1.251
+    angleY -12.073
+    Box BoundingVolume "{52A13A85607E5A92}" {
+     Size 17 15 17
+    }
+   }
+  }
+ }
+ {
+  coords 10605.154 146.162 2225.912
+  {
+   ProbeVolume {
+    coords -2.482 -1.898 -1.521
+    angleY -29.44
+    Box BoundingVolume "{54A4E31B0FD64428}" {
+     Size 20.945 12.352 19.655
+    }
+    BoxLerp 0.6
+   }
+  }
+ }
+ {
+  coords 10625.376 140.574 2096.712
+  {
+   ProbeVolume {
+    coords -4.6 -0.03 -0.295
+    angleY 39.797
+    Box BoundingVolume "{54A693CC18CFDE56}" {
+     Size 17.33 9.401 35.313
+    }
+    BoxLerp 0.5
+   }
+  }
+ }
+ {
+  coords 10927.824 137.573 2236.51
+  angleX -0.939
+  angleY -0.557
+  angleZ 1.414
+  {
+   ProbeVolume {
+    coords 5.919 0.556 10.108
+    angleY -52.75
+    Box BoundingVolume "{54A4E31B0FD64428}" {
+     Size 45.743 10.833 19.655
+    }
+    BoxLerp 0.6
+   }
+  }
+ }
+ {
+  coords 8406.361 0.957 766.78
+  {
+   ProbeVolume {
+    coords 0.676 -3.54 -0.692
+    angleY 65.019
+    Box BoundingVolume "{546AD5D54C4862A2}" {
+     Size 21.589 22.71 19.578
+    }
+   }
+  }
+ }
+ {
+  coords 8561.077 4.189 703.397
+  {
+   ProbeVolume {
+    coords 6.661 -4.623 4.371
+    angleY 60.756
+    Box BoundingVolume "{546AD5D54C4862A2}" {
+     Size 15.275 17.43 26.571
+    }
+   }
+  }
+ }
+ {
+  coords 8682.633 194.633 1439.993
+  {
+   $grp ProbeVolume {
+    CJ_caveprobe2 {
+     coords -20.062 1.594 -6.045
+     angleX 68.329
+     angleY -172.244
+     angleZ 82.586
+     Box BoundingVolume "{5298C4F4D02E90AA}" {
+      Size 32.736 20 17
+     }
+     BoxLerp 0.364
+    }
+    CJ_caveprobe_3 {
+     coords -1.51 4.685 -2.306
+     angleX 24.141
+     angleY -8.555
+     angleZ 26.896
+     Box BoundingVolume "{529AF767D4C6BB92}" {
+      Size 17.861 20 31.351
+     }
+     BoxLerp 0.318
+    }
+    CJ_caveprobe3 {
+     coords -8.717 7.766 -1.848
+     angleX 68.329
+     angleY -172.244
+     angleZ 82.586
+     Box BoundingVolume "{5298C4F4D02E90AA}" {
+      Size 32.736 10 10
+     }
+     BoxLerp 0.364
+    }
+   }
+  }
+ }
+ {
+  coords 10877.79 9.178 8702.854
+  {
+   $grp ProbeVolume {
+    {
+     coords 10.508 3.807 -26.406
+     angleX 6.83
+     angleY 28.982
+     angleZ -12.117
+     Box BoundingVolume "{52AC89E0272CFE5F}" {
+      Size 20.324 12.116 45.09
+     }
+    }
+    {
+     coords -0.486 0.203 1.338
+     Box BoundingVolume "{52AC89E0335AE51C}" {
+      Size 21.972 11.408 29.622
+     }
+    }
+    {
+     coords 9.121 2.782 -26.302
+     Box BoundingVolume "{52AC89E0335AE51C}" {
+      Size 21.972 11.408 29.622
+     }
+    }
+   }
+  }
+ }
+}
+$grp EnvironmentProbeEntity : "{A3F046396756E15F}Prefabs/Structures/Core/ProbeExteriorWater_Base.et" {
+ ProbeExterior_SpringPond {
+  coords 4668.026 15.117 10503.611
+  Priority 2
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 60 50 70
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExterior_ReginaPond_02 {
+  coords 7318.311 134.719 2424.405
+  Priority 2
+  FarPlane 300
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 0 0 0
+    angleY -53.498
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 50 50 80
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExterior_ReginaPond_01 {
+  coords 7247.021 135.75 2248.921
+  Priority 2
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 50 50 50
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_BellPitLake {
+  coords 10227.367 258.887 2595.184
+  Rendering 5
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 90 50 90
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_Durras_Pond {
+  coords 8859.243 93.61 2791.734
+  Priority 2
+  Rendering 5
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 0 0 0
+    angleY -14.827
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 70 50 100
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_AlderPond {
+  coords 5884.449 79.188 5719.286
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 70 50 70
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_Provins_Pond {
+  coords 5147.798 60.495 5285.998
+  {
+   ProbeVolume ProbeExterior_Provins_Pond_shape {
+    ID "54FE653E68DF1A3B"
+    angleY 25.698
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 50 50 50
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_Gravette_Pond {
+  coords 4196.946 42.375 7882.026
+  Priority 2
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 45 40 45
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_GillnetPond {
+  coords 7076.353 56.947 8166.68
+  Rendering 13
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 0 0 0
+    angleY 13.972
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 75 50 65
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_BlackLake {
+  coords 9480.15 207.708 3025.384
+  FarPlane 300
+  VisibleDistance 700
+  Rendering 13
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 100 50 140
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExtWater_ReedPond {
+  coords 6539.02 78.356 5580.707
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 0 0 0
+    angleY 54.737
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 110 50 80
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExterior_ShepherdsPond {
+  coords 3571.23 104.407 4842.667
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 0 0 0
+    angleY -49.859
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 80 50 70
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExterior_PeriwinklePond {
+  coords 6713.005 124.946 6795.677
+  FarPlane 200
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 0 0 0
+    angleY -49.777
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 70 50 110
+    }
+    BoxLerp 5
+   }
+  }
+ }
+ ProbeExterior_QuarryPond {
+  coords 8825.104 197.036 3949.422
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 0 0 0
+    angleY -34.583
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 70 50 100
+    }
+    BoxLerp 5
+   }
+  }
+ }
+}
+$grp EnvironmentProbeEntity : "{AA57005900B46D12}Prefabs/Structures/Core/ProbeExterior_Base.et" {
+ ProbeExt_Montignac_01 {
+  coords 4799.858 170.791 7011.323
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -33.367 0.144 24.911
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 450 50 450
+    }
+   }
+  }
+ }
+ ProbeExt_Montignac_02 {
+  coords 4536.521 158.111 6848.417
+  Priority 2
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -7.655 -0.106 13.324
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 150 50 150
+    }
+   }
+  }
+ }
+ ProbeExt_Montignac_03 {
+  coords 5132.013 178.047 7038.879
+  Priority 3
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 15.777 -0.058 5.909
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 250 50 250
+    }
+   }
+  }
+ }
+ ProbeExt_Gravette_01 {
+  coords 4128.282 38.561 7792.364
+  ReflectionDesaturation 0.25
+  DiffuseDesaturation 0.65
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 1.986 -11.38 -1.466
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 300 100 300
+    }
+   }
+  }
+ }
+ ProbeExt_St_Pierre_01 {
+  coords 9600.674 26.549 1499.207
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 120.563 -11.035 51.508
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 450 120 450
+    }
+   }
+  }
+ }
+ ProbeExt_St_Phillippe_01 {
+  coords 4405.646 13.079 10710.892
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 40.878 6.524 55.013
+    angleY -27.253
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 550 100 750
+    }
+   }
+  }
+ }
+ ProbeExt_Villeneuve_01 {
+  coords 2835.917 88.878 6336.174
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 13.326 -1.375 19.246
+    angleY -64.333
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 220 100 260
+    }
+   }
+  }
+ }
+ ProbeExt_Meaux_01 {
+  coords 4500.808 16.347 9459.352
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 12.197 1.414 48.321
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 270 125 390
+    }
+   }
+  }
+ }
+ ProbeExt_Tyrone_01 {
+  coords 4950.285 39.835 9076.825
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -13.689 0.668 -13.205
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 200 100 250
+    }
+   }
+  }
+ }
+ ProbeExt_Vernon_01 {
+  coords 9267.486 59.99 2062.263
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 3.931 0.446 -1.473
+    angleY -46.122
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 170 100 300
+    }
+   }
+  }
+ }
+ ProbeExt_Durras_01 {
+  coords 8808.645 99.878 2793.305
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 27.403 1.477 -11.188
+    angleY -15.896
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 240 100 340
+    }
+   }
+  }
+ }
+ ProbeExt_Regina_01 {
+  coords 7191.044 139.806 2326.6
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -7.556 0.144 7.183
+    angleY -11.986
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 200 100 320
+    }
+   }
+  }
+ }
+ ProbeExt_Levie_01 {
+  coords 7480.997 140.061 4723.887
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 5.904 0.144 -8.977
+    angleY 31.299
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 300 100 220
+    }
+   }
+  }
+ }
+ ProbeExt_Levie_02 {
+  coords 7530.664 167.79 4338.426
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -27.922 0.144 -57.822
+    angleY -161.04
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 280 50 180
+    }
+    SphereLerp 0
+   }
+  }
+ }
+ ProbeExt_Morton_01 {
+  coords 5130.448 17.251 3998.477
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -35.564 -9.947 -24.354
+    angleY -39.696
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 350 130 300
+    }
+   }
+  }
+ }
+ ProbeExt_Figari_01 {
+  coords 5277.779 65.93 5353.935
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -15.283 -4.594 4.668
+    angleY -59.994
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 260 100 230
+    }
+   }
+  }
+ }
+ ProbeExt_Laruns_01 {
+  coords 7584.095 85.181 5508.705
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -38.458 1.188 28.033
+    angleY -23.615
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 250 100 250
+    }
+   }
+  }
+ }
+ ProbeExt_Chotain_01 {
+  coords 7070.112 122.645 6027.742
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -19.062 0.144 -24.293
+    angleY -35.666
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 270 100 250
+    }
+   }
+  }
+ }
+ ProbeExt_Provins_01 {
+  coords 5488.17 98.67 6083.411
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords 24.185 0.144 -31.943
+    angleY 28.081
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 170 100 180
+    }
+   }
+  }
+ }
+ ProbeExt_Entre_Deux_01 {
+  coords 5760.571 221.863 7061.821
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -7.367 0.144 0.419
+    angleY 16.681
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 230 100 230
+    }
+   }
+  }
+ }
+ ProbeExt_Le_Moule_01 {
+  coords 2630.963 94.735 5362.498
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -63.091 0.144 69.451
+    angleY -28.675
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 250 120 350
+    }
+   }
+  }
+ }
+ ProbeExt_Lamentin_01 {
+  coords 1295.771 41.675 5940.628
+  {
+   ProbeVolume {
+    ID "54FE653E68DF1A3B"
+    coords -4.398 0.144 54.721
+    angleY -129.468
+    Box BoundingVolume "{54989D4D1B10E454}" {
+     Size 370 100 260
+    }
+   }
+  }
+ }
+}

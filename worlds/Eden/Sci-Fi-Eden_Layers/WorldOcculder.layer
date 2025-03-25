@@ -1,0 +1,900 @@
+$grp WorldOccluderEntity {
+ {
+  coords 5275.609 24.674 4586.948
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 449.183 160.625 236.705
+  }
+ }
+ {
+  coords 4819.189 6.648 4586.948
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 458.256 121.102 236.705
+  }
+ }
+ {
+  coords 5581.34 6.648 4592.295
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 158.916 121.102 257.227
+  }
+ }
+ {
+  coords 3922.043 9.46 4376.485
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 161.214 238.998 493.435
+  }
+ }
+ {
+  coords 4128.98 -46.263 3822.721
+  angleX 9.155
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 68.463 188.818 663.632
+  }
+ }
+ {
+  coords 3376.998 -2.315 4545.208
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 365.47 215.448 297.659
+  }
+ }
+ {
+  coords 2235.48 17.95 5623.348
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 265.427 189.904 301.802
+  }
+ }
+ {
+  coords 2235.48 -34.832 5925.91
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 265.427 189.904 301.802
+  }
+ }
+ {
+  coords 2235.48 -22.311 5315.471
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 265.427 189.904 301.802
+  }
+ }
+ {
+  coords 4221.241 14.676 6658.289
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 270.298 190.403 362.133
+  }
+ }
+ {
+  coords 3831.1 -12.373 6329.455
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 503.518 190.346 360.068
+  }
+ }
+ {
+  coords 3425.214 6.827 5472.464
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 355.099 193.469 316.798
+  }
+ }
+ {
+  coords 6764.25 12.761 6404.242
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 212.286 205.337 534.256
+  }
+ }
+ {
+  coords 6998.441 4.171 5893.132
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 152.978 188.157 534.256
+  }
+ }
+ {
+  coords 7242.389 -0.418 5496.027
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 334.192 180.458 669.998
+  }
+ }
+ {
+  coords 7590.538 0.121 5075.846
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 359.305 181.536 418.812
+  }
+ }
+ {
+  coords 6119.236 7.021 5079.22
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 851.386 125.319 325.594
+  }
+ }
+ {
+  coords 5907.693 1.244 4811.168
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 458.412 113.766 199.057
+  }
+ }
+ {
+  coords 5328.945 3.6 4368.422
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 373.973 118.479 195.769
+  }
+ }
+ {
+  coords 2834.84 7.52 5085.126
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 448.314 169.044 164.554
+  }
+ }
+ {
+  coords 3141.216 6.494 4853.119
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 228.677 166.992 294.873
+  }
+ }
+ {
+  coords 1965.539 -11.68 5702.34
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 265.427 189.932 156.111
+  }
+ }
+ {
+  coords 1628.209 -29.988 5802.891
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 407.205 153.315 137.658
+  }
+ }
+ {
+  coords 2562.644 -35.161 6973.065
+  angleY 60.297
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 641.379 142.969 290.874
+  }
+ }
+ {
+  coords 2449.723 -29.307 5111.645
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 313.91 190.584 102.359
+  }
+ }
+ {
+  coords 4709.083 -29.307 8528.468
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 733.744 190.584 253.882
+  }
+ }
+ {
+  coords 6291.613 32.61 8154.396
+  angleX -8.278
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 147.376 413.787
+  }
+ }
+ {
+  coords 6361.33 6.798 8544.29
+  angleX -8.278
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 86.186 361.855
+  }
+ }
+ {
+  coords 6979.125 -10.39 8375.979
+  angleY 7.851
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 293.146 157.028 201.632
+  }
+ }
+ {
+  coords 6861.518 -5.976 8665.81
+  angleY 7.851
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 145.158 98.858 333.392
+  }
+ }
+ {
+  coords 6866.063 -11.545 7860.514
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 373.341 154.717 459.811
+  }
+ }
+ {
+  coords 4300.375 -6.956 4468.185
+  angleZ 7.834
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 572.894 157.453 0
+  }
+ }
+ {
+  coords 4977.29 77.625 8537.402
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 175.142 27.91 171.598
+  }
+ }
+ {
+  coords 3057.683 -23.785 6400.496
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 641.379 165.721 506.098
+  }
+ }
+ {
+  coords 10996.544 35.969 2246.152
+  angleY 44.418
+  angleZ 8.145
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 649.377 232.78 0
+  }
+ }
+ {
+  coords 9970.979 43.699 600.058
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 150.097 122.407 113.309
+  }
+ }
+ {
+  coords 10122.413 24.723 513.988
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 150.097 89.666 113.309
+  }
+ }
+ {
+  coords 10269.186 2.268 392.879
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 212.686 44.755 126.704
+  }
+ }
+ {
+  coords 9856.896 49.401 698.475
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 105.954 133.811 83.362
+  }
+ }
+ {
+  coords 9642.719 49.392 727.066
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 319.479 133.794 95.112
+  }
+ }
+ {
+  coords 9525.238 49.392 899.299
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 202.659 133.794 245.51
+  }
+ }
+ {
+  coords 7235.569 -50.33 2120.669
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 494.238 313.943 363.601
+  }
+ }
+ {
+  coords 7385.896 -86.614 1805.564
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 207.412 241.374 261.61
+  }
+ }
+ {
+  coords 5007.648 -13.263 9506.396
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 74.638 112.193 75.664
+  }
+ }
+ {
+  coords 4932.914 -28.661 9506.396
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 74.638 112.193 75.664
+  }
+ }
+ {
+  coords 5083.258 -27.601 9506.396
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 74.638 112.193 75.664
+  }
+ }
+ {
+  coords 4956.872 -0.367 10435.681
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 69.597 85.063 55.034
+  }
+ }
+ {
+  coords 5027.389 -3.24 10416.584
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 69.597 79.317 92.043
+  }
+ }
+ {
+  coords 4902.436 -3.24 10453.976
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 38.938 79.317 86.399
+  }
+ }
+ {
+  coords 5094.568 -0.969 10661.531
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 96.072 79.317 53.9
+  }
+ }
+ {
+  coords 5027.469 2.95 10679.076
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 36.27 60.572 75.541
+  }
+ }
+ {
+  coords 5342.688 0.676 10913.676
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 94.251 82.608 69.858
+  }
+ }
+ {
+  coords 5285.349 -2.7 10832.653
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 84.269 75.856 88.716
+  }
+ }
+ {
+  coords 4304.152 11.687 10316.665
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 73.57 56.095 47.98
+  }
+ }
+ {
+  coords 4304.152 5.318 10268.437
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 73.57 56.095 47.98
+  }
+ }
+ {
+  coords 4304.152 5.318 10364.9
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 73.57 56.095 47.98
+  }
+ }
+ {
+  coords 4312.483 1.241 10072.664
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 342.924
+  }
+ }
+ {
+  coords 4287.604 2.153 10438.018
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 183.885 50.262 95.927
+  }
+ }
+ {
+  coords 5660.862 3.074 9114.278
+  angleY 31.125
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5707.524 -5.444 9243.449
+  angleY 9.287
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5689.771 -12.475 9631.136
+  angleY -5.713
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 48.088 620.911
+  }
+ }
+ {
+  coords 4284.233 6.165 8687.887
+  angleY -26.972
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 321.571 51.981 441.278
+  }
+ }
+ {
+  coords 5022.648 3.568 9600.632
+  angleX -5.085
+  angleY -5.62
+  angleZ -0.642
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5033.51 4.882 9406.119
+  angleY -5.713
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 6039.218 -17.669 9876.666
+  angleY -54.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5925.925 -14.258 9958.396
+  angleY -54.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5909.688 -7.185 10054.817
+  angleY 35.807
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5979.855 -15.366 10152.088
+  angleY 35.807
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 100
+  }
+ }
+ {
+  coords 5955.87 -15.416 10228.895
+  angleY 125.807
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5842.423 -12.001 10310.735
+  angleY 125.807
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5827.275 1.635 10405.251
+  angleY -144.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5909.37 -3.514 10519.052
+  angleY -144.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5893.621 -18.975 10615.55
+  angleY -54.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5149.186 1.015 9891.104
+  angleY -1.143
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5146.405 1.015 10030.453
+  angleY -1.143
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5143.618 1.015 10170.146
+  angleY -1.143
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5140.832 1.015 10309.748
+  angleY -1.143
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5151.977 -5.236 9751.09
+  angleY -1.143
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5714.483 6.616 10535.14
+  angleY -99.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5620.108 -11.173 10583.889
+  angleY -24.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5562.873 -5.48 10711.281
+  angleY -24.193
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 47.941 139.873
+  }
+ }
+ {
+  coords 5337.256 12.266 10574.248
+  angleY 106.565
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 350.524 37.518 378.885
+  }
+ }
+ {
+  coords 10496.16 188.939 2616.202
+  angleX 1.985
+  angleY 22.144
+  angleZ 5.092
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 621.649 97.626 0
+  }
+ }
+ {
+  coords 10357.297 81.992 2294.865
+  angleX 1.237
+  angleY 36.435
+  angleZ 9.21
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 621.649 230.989 0
+  }
+ }
+ {
+  coords 9775.515 27.241 2048.25
+  angleX -9.23
+  angleY 127.343
+  angleZ 26.283
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 621.649 230.989 0
+  }
+ }
+ {
+  coords 7028.669 50.482 2350.594
+  angleX 1.828
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 641.134
+  }
+ }
+ {
+  coords 7347.456 52.239 2641.616
+  angleY -90
+  angleZ -1.828
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 641.134
+  }
+ }
+ {
+  coords 7315.898 96.563 2894.17
+  angleX 15.72
+  angleY 53.628
+  angleZ 3.613
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 641.134
+  }
+ }
+ {
+  coords 5889.825 -9.948 4939.812
+  angleX -7.559
+  angleY -125.002
+  angleZ 0.237
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 474.623
+  }
+ }
+ {
+  coords 6245.958 5.821 5153.535
+  angleX 4.351
+  angleY -110.359
+  angleZ -1.712
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 474.623
+  }
+ }
+ {
+  coords 6808.588 -0.532 5278.667
+  angleX -4.473
+  angleY -92.463
+  angleZ -3.86
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 474.623
+  }
+ }
+ {
+  coords 6127.137 4.556 5316.065
+  angleX 4.525
+  angleY -163.887
+  angleZ -4.524
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 474.623
+  }
+ }
+ {
+  coords 5851.229 -6.76 5153.666
+  angleX 5.19
+  angleY 114.936
+  angleZ -5.217
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 474.623
+  }
+ }
+ {
+  coords 6060.189 -9.655 4792.194
+  angleX 6.203
+  angleY 8.752
+  angleZ -5.161
+  Box BoundingVolume "{5542ECC2C875DE3A}" {
+   Size 0 188.867 474.623
+  }
+ }
+ {
+  coords 1918.394 -28.035 5141.742
+  angleY -47.932
+  angleZ -4.427
+  Box BoundingVolume "{554EC9A5511EE9CC}" {
+   Size 532.114 188.014 93.756
+  }
+ }
+ {
+  coords 2292.99 -55.788 4879.866
+  angleX -0.352
+  angleY -52.48
+  angleZ -7.042
+  Box BoundingVolume "{554EC9A5511EE9CC}" {
+   Size 532.114 188.014 99.77
+  }
+ }
+ {
+  coords 2611.133 -59.89 4363.055
+  angleX 2.725
+  angleY -27
+  angleZ -9.242
+  Box BoundingVolume "{554EC9A5511EE9CC}" {
+   Size 407.617 185.042 0
+  }
+ }
+ {
+  coords 2924.007 -28.489 4520.798
+  angleX 2.725
+  angleY -27
+  angleZ -1.876
+  Box BoundingVolume "{554EC9A5511EE9CC}" {
+   Size 407.617 185.042 0
+  }
+ }
+ {
+  coords 3122.518 -16.906 4199.962
+  angleX 1.686
+  angleY -51.822
+  angleZ -8.802
+  Box BoundingVolume "{554EC9A5511EE9CC}" {
+   Size 407.617 183.565 113.137
+  }
+ }
+ {
+  coords 3426.696 -51.995 3781.042
+  angleX -2.433
+  angleY -78.214
+  angleZ -8.626
+  Box BoundingVolume "{554EC9A5511EE9CC}" {
+   Size 607.309 162.119 113.137
+  }
+ }
+ {
+  coords 3542.63 18.545 4306.451
+  angleX -2.433
+  angleY -78.214
+  angleZ -8.626
+  Box BoundingVolume "{554EC9A5511EE9CC}" {
+   Size 483.594 162.529 378.717
+  }
+ }
+ {
+  coords 1453.478 -59.745 6075.856
+  angleY -43.578
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 103.116 188.818 721.526
+  }
+ }
+ {
+  coords 4419.354 -1.166 10433.325
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 77.443 46.065 95.927
+  }
+ }
+ {
+  coords 4416.557 -1.166 10511.676
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 77.443 46.178 45.792
+  }
+ }
+ {
+  coords 5275.608 -29.426 11333.2
+  angleY 71.509
+  angleZ -0.984
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 441.868 131.42 22.211
+  }
+ }
+ {
+  coords 5282.987 -22.23 10987.729
+  angleY 61.509
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 377.132 116.454 0
+  }
+ }
+ {
+  coords 5013.135 -29.307 8043.173
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 190.584 715.122
+  }
+ }
+ {
+  coords 4352.235 -29.307 8043.173
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 0 190.584 715.122
+  }
+ }
+ {
+  coords 6710.529 -20.986 1994.314
+  angleZ -11.123
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 600 160.625 0
+  }
+ }
+ {
+  coords 5538.481 -51.892 4002.036
+  angleY 73.3
+  angleZ 3.918
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 600 160.625 0
+  }
+ }
+ {
+  coords 4676.427 -54.747 3610.671
+  angleY 73.3
+  angleZ 3.918
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 600 160.625 0
+  }
+ }
+ {
+  coords 7483.572 -51.798 1507.935
+  angleX -1.387
+  angleY 93.998
+  angleZ 8.307
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 300 160.625 0
+  }
+ }
+ {
+  coords 8733.075 8.039 901.079
+  angleY 126.583
+  angleZ 14.638
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 400 160.625 0
+  }
+ }
+ {
+  coords 9038.709 26.82 840.923
+  angleY 126.583
+  angleZ 14.638
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 400 160.625 0
+  }
+ }
+ {
+  coords 8639.51 33.875 1160.893
+  angleY 143.85
+  angleZ 21.22
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 400 160.625 0
+  }
+ }
+ {
+  coords 8225.921 12.834 1454.851
+  angleY 137.437
+  angleZ 20.703
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 400 160.625 0
+  }
+ }
+ {
+  coords 9584.498 -22.918 423.919
+  angleY 86.936
+  angleZ 20.677
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 160.625 0
+  }
+ }
+ {
+  coords 11374.866 -21.787 1786.282
+  angleY 58.405
+  angleZ 7.119
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 160.625 26.997
+  }
+ }
+ {
+  coords 10806.214 -4.739 1847.285
+  angleY 53.777
+  angleZ 10.736
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 158 0
+  }
+ }
+ {
+  coords 8784.617 39.914 4982.003
+  angleX 4.009
+  angleY 152.74
+  angleZ -13.834
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 160.625 100
+  }
+ }
+ {
+  coords 7353.885 -49.745 8675.146
+  angleY 134.654
+  angleZ -6.661
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 160.625 100
+  }
+ }
+ {
+  coords 9428.238 -6.927 4697.777
+  angleX -0.888
+  angleY 101.094
+  angleZ -9.285
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 160.625 0
+  }
+ }
+ {
+  coords 9822.662 21.91 4023.336
+  angleY 137.437
+  angleZ -19.808
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 160.625 100
+  }
+ }
+ {
+  coords 10943.896 10.663 2658.815
+  angleY 137.437
+  angleZ -22.391
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 545.513 160.625 35.796
+  }
+ }
+ {
+  coords 7132.58 -67.014 4875.19
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 556.091 237.723 570.8
+  }
+ }
+ {
+  coords 1222.532 -13.59 11490.535
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 231.704 108.435 38.856
+  }
+ }
+ {
+  coords 1409.57 -18.531 11413.119
+  angleX 0.45
+  angleY 35.811
+  angleZ 2.806
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 231.704 108.435 38.856
+  }
+ }
+ {
+  coords 1110.697 -19.701 11665.912
+  angleY 73.499
+  Box BoundingVolume "{5308E96B6E7B61D8}" {
+   Size 231.704 108.435 38.856
+  }
+ }
+}
